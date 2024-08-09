@@ -12,6 +12,15 @@ url = "https://www.the-numbers.com/box-office-records/worldwide/all-movies/cumul
 class Film:
     def __init__(self):
         self.film_data = []
+        self.aud_score = 'N/A'
+        self.crit_score = 'N/A'
+        self.name = ""
+        self.gross = ""
+        self.rank = ""
+        self.director = ""
+        self.release_date = ""
+        self.genre = ""
+        self.dist = ""
 
     def get_data_numbers(self, num=""):
         response = requests.get(url+"/"+num, headers=headers)
@@ -32,24 +41,29 @@ class Film:
                 try:
                     columns = row.find_all('td')
                     if len(columns) >= 4:
-                        rank = columns[0].text.strip()
+                        self.rank = columns[0].text.strip()
                         name_element = columns[2].find('a')
-                        name = name_element.text.strip() if name_element else "N/A"
-                        gross_income = columns[3].text.strip()
-                        
-                        movie_data = {
-                            'Rank': rank,
-                            'Name': name,
-                            'Gross Income': gross_income
-                        }
+                        self.name = name_element.text.strip() if name_element else "N/A"
+                        self.gross = columns[3].text.strip()
                         
                         # Get Rotten Tomatoes data
-                        rt_data = self.get_data_rotten(name)
-                        movie_data.update(rt_data)
+                        self.get_data_rotten(self.name)
+                        
+                        movie_data = {
+                            'Rank': self.rank,
+                            'Name': self.name,
+                            'Gross Income': self.gross,
+                            'Audience Score': self.aud_score,
+                            'Critics Score': self.crit_score,
+                            'Genre' : self.genre,
+                            'Director' : self.director,
+                            'Distributor' : self.dist,
+                            'Release date': self.release_date
+                        }
                         
                         self.film_data.append(movie_data)
                         
-                        print(f"Processed: Rank: {rank}, Name: {name}, Gross Income: {gross_income}, RT Data: {rt_data}")
+                        print(f"Processed: Rank: {self.rank}, Name: {self.name}, Gross: {self.gross}, Audience: {self.aud_score}, Critics: {self.crit_score}, Dist: {self.dist}, Direc: {self.director}, Date: {self.release_date}")
                     else:
                         print(f"Row doesn't have enough columns: {columns}")
                 except Exception as e:
@@ -68,22 +82,44 @@ class Film:
         response = requests.get(url, headers=headers)
         if response.status_code != 200:
             print(f"Failed to retrieve Rotten Tomatoes page for {name}. Status code: {response.status_code}")
-            return {'Audience Score': 'N/A', 'Critics Score': 'N/A'}
+            self.aud_score = 'N/A'
+            self.crit_score = 'N/A'
+            self.genre = 'N/A'
+            self.director = 'N/A'
+            self.dist = 'N/A'
+            self.release_date = 'N/A'
+            return
         
         soup = bs(response.text, 'html.parser')
-        
+        info_dl = soup.find('dl')
+
+        if info_dl:
+            for div in info_dl.find_all('div', class_='category-wrap'):
+                key = div.find('dt', class_='key').text.strip()
+                value = div.find('dd')
+
+                if key == "Director":
+                    self.director = value.text.strip().replace("/r/n", "")
+                elif key == "Release Date (Theaters)":
+                    self.release_date = value.text.strip().replace("Wide", "")
+                elif key == "Distributor":
+                    self.dist = value.text.strip()
+                elif key == "Genre":
+                    self.genre = ', '.join([a.text.strip() for a in value.find_all('a')])
+
         def extract_score(slot_name):
             button = soup.find('rt-button', attrs={'slot': slot_name})
             if button:
                 rt_text = button.find('rt-text')
                 if rt_text:
-                    return rt_text.text.strip()
+                    return str(rt_text.text.strip())
+                    
             return "N/A"
 
-        audience_score = extract_score('audienceScore')
-        critics_score = extract_score('criticsScore')
-        
-        return {'Audience Score': audience_score, 'Critics Score': critics_score}
+        self.aud_score = extract_score('audienceScore')
+        self.crit_score = extract_score('criticsScore')
+
+
 
     def save_to_csv(self, filename='movie_data.csv'):
         if not self.film_data:
