@@ -1,597 +1,501 @@
-Rank,Name,Gross Income,Audience Score,Critics Score,Genre,Director,Distributor,Release date
-1,Avatar,"$2,923,706,026",82%,81%,,James Cameron,20th Century Fox,"Dec 18, 2009, "
-2,Avengers: Endgame,"$2,748,242,781",90%,94%,,"Anthony Russo, 
-Joe Russo",Walt Disney,"Apr 26, 2019, "
-3,Avatar: The Way of Water,"$2,317,514,386",92%,76%,,James Cameron,20th Century Studios,"Dec 16, 2022, "
-4,Titanic,"$2,223,048,786",69%,88%,,James Cameron,"20th Century Fox, 
-Paramount Pictures","Dec 19, 1997, "
-5,Star Wars Ep. VII: The Force Awakens,"$2,058,880,845",N/A,N/A,N/A,N/A,N/A,N/A
-6,Avengers: Infinity War,"$2,048,359,754",92%,85%,,"Anthony Russo, 
-Joe Russo",Walt Disney,"Apr 27, 2018, "
-7,Spider-Man: No Way Home,"$1,908,532,719",N/A,N/A,N/A,N/A,N/A,N/A
-8,Jurassic World,"$1,669,963,641",78%,71%,,Colin Trevorrow,Universal Pictures,"Jun 12, 2015, "
-9,The Lion King,"$1,646,106,779",93%,92%,,"Roger Allers, 
-Rob Minkoff",Walt Disney Pictures,"Jun 24, 1994, "
-10,Inside Out 2,"$1,559,255,587",95%,91%,,Kelsey Mann,Disney/Pixar,"Jun 14, 2024, "
-11,The Avengers,"$1,515,100,211",N/A,N/A,N/A,N/A,N/A,N/A
-12,Furious 7,"$1,511,986,364",82%,81%,,James Wan,Universal Pictures,"Apr 3, 2015, "
-13,Top Gun: Maverick,"$1,464,642,326",99%,96%,,Joseph Kosinski,Paramount Pictures,"May 27, 2022, "
-14,Frozen II,"$1,451,653,316",92%,77%,,"Chris Buck, 
-Jennifer Lee",Walt Disney,"Nov 22, 2019, "
-15,Barbie,"$1,445,638,421",83%,88%,,Greta Gerwig,Warner Bros. Pictures,"Jul 21, 2023, "
-16,Avengers: Age of Ultron,"$1,395,316,979",82%,76%,,Joss Whedon,Walt Disney,"May 1, 2015, "
-17,The Super Mario Bros. Movie,"$1,361,553,421",N/A,N/A,N/A,N/A,N/A,N/A
-18,Black Panther,"$1,334,157,082",50%,,N/A,Ian Merrick,N/A,N/A
-19,Star Wars Ep. VIII: The Last Jedi,"$1,325,604,756",N/A,N/A,N/A,N/A,N/A,N/A
-20,Harry Potter and the Deathly Hallows:…,"$1,312,201,690",N/A,N/A,N/A,N/A,N/A,N/A
-21,Jurassic World: Fallen Kingdom,"$1,308,323,302",48%,46%,,J. A. Bayona,Universal Pictures,"Jun 22, 2018, "
-22,Frozen,"$1,273,378,817",62%,56%,,Wang Xiaoshuai,Universal Pictures,"Jun 22, 2018, "
-23,Beauty and the Beast,"$1,268,697,483",,,,Diane Eskenazi,Universal Pictures,"Jun 22, 2018, "
-24,Incredibles 2,"$1,242,805,359",84%,93%,,Brad Bird,Walt Disney,"Jun 15, 2018, "
-25,The Fate of the Furious,"$1,235,534,014",72%,67%,,F. Gary Gray,Universal Pictures,"Apr 14, 2017, "
-26,Iron Man 3,"$1,215,392,272",78%,79%,,Shane Black,Walt Disney,"May 3, 2013, "
-27,Minions,"$1,157,271,759",49%,56%,,"Pierre Coffin, 
-Kyle Balda",Universal Pictures,"Jul 10, 2015, "
-28,Captain America: Civil War,"$1,151,899,586",89%,90%,,"Anthony Russo, 
-Joe Russo",Walt Disney Pictures,"May 6, 2016, "
-29,Spider-Man: Far From Home,"$1,132,937,929",N/A,N/A,N/A,N/A,N/A,N/A
-30,Aquaman,"$1,131,849,702",72%,65%,,James Wan,Warner Bros. Pictures,"Dec 21, 2018, "
-31,Captain Marvel,"$1,129,576,094",45%,79%,,"Anna Boden, 
-Ryan Fleck",Walt Disney,"Mar 8, 2019, "
-32,The Lord of the Rings: The Return of …,"$1,123,837,908",N/A,N/A,N/A,N/A,N/A,N/A
-33,Transformers: Dark of the Moon,"$1,123,794,079",55%,35%,,Michael Bay,Paramount Pictures,"Jun 29, 2011, "
-34,Skyfall,"$1,110,526,981",86%,92%,,Sam Mendes,Sony Pictures Entertainment,"Nov 9, 2012, "
-35,Transformers: Age of Extinction,"$1,104,054,072",50%,18%,,Michael Bay,Paramount Pictures,"Jun 27, 2014, "
-36,The Dark Knight Rises,"$1,082,228,107",90%,87%,,Christopher Nolan,Warner Bros. Pictures,"Jul 20, 2012, "
-37,Toy Story 4,"$1,072,817,964",94%,97%,,Josh Cooley,Walt Disney,"Jun 21, 2019, "
-38,Star Wars: The Rise of Skywalker,"$1,070,655,325",86%,51%,,J.J. Abrams,Walt Disney,"Dec 20, 2019, "
-39,Toy Story 3,"$1,068,879,522",90%,98%,,Lee Unkrich,Walt Disney,"Jun 18, 2010, "
-40,Pirates of the Caribbean: Dead Man’s …,"$1,066,179,725",N/A,N/A,N/A,N/A,N/A,N/A
-41,Joker,"$1,064,085,246",33%,,,Yuri Kuzmenko,N/A,N/A
-42,Jurassic Park,"$1,058,454,230",91%,92%,,Steven Spielberg,Universal Pictures,"Jun 11, 1993, "
-43,Rogue One: A Star Wars Story,"$1,055,083,596",87%,84%,,Gareth Edwards,Walt Disney,"Dec 16, 2016, "
-44,Aladdin,"$1,046,587,513",94%,57%,,Guy Ritchie,Walt Disney,"May 24, 2019, "
-45,Pirates of the Caribbean: On Stranger…,"$1,045,713,802",N/A,N/A,N/A,N/A,N/A,N/A
-46,Star Wars Ep. I: The Phantom Menace,"$1,040,074,671",N/A,N/A,N/A,N/A,N/A,N/A
-47,Despicable Me 3,"$1,032,809,657",53%,58%,,"Pierre Coffin, 
-Kyle Balda",Universal Pictures,"Jun 30, 2017, "
-48,Alice in Wonderland,"$1,025,491,110",,,,"Robson Lima, 
-Everton Rodrigues",Universal Pictures,"Jun 30, 2017, "
-49,Finding Dory,"$1,025,006,125",84%,94%,,Andrew Stanton,Walt Disney,"Jun 17, 2016, "
-50,The Hobbit: An Unexpected Journey,"$1,014,938,545",83%,64%,,Peter Jackson,Warner Bros. Pictures,"Dec 14, 2012, "
-51,The Dark Knight,"$1,007,695,772",94%,94%,,Christopher Nolan,Warner Bros. Pictures,"Jul 18, 2008, "
-52,Jurassic World: Dominion,"$1,004,004,592",77%,29%,,Colin Trevorrow,Universal Pictures,"Jun 10, 2022, "
-53,Zootopia,"$1,002,462,578",92%,98%,,"Byron Howard, 
-Rich Moore",Walt Disney,"Mar 4, 2016, "
-54,The Lion King,"$988,389,726",93%,92%,,"Roger Allers, 
-Rob Minkoff",Walt Disney Pictures,"Jun 24, 1994, "
-55,Oppenheimer,"$976,968,205",N/A,N/A,N/A,N/A,N/A,N/A
-56,Despicable Me 2,"$975,216,835",85%,75%,,"Chris Renaud, 
-Pierre Coffin",Universal Pictures,"Jul 3, 2013, "
-57,Harry Potter and the Sorcerer’s Stone,"$963,637,834",N/A,N/A,N/A,N/A,N/A,N/A
-58,Jumanji: Welcome to the Jungle,"$961,632,807",87%,76%,,Jake Kasdan,Sony Pictures Entertainment,"Dec 20, 2017, "
-59,Pirates of the Caribbean: At World’s …,"$960,996,492",N/A,N/A,N/A,N/A,N/A,N/A
-60,The Hobbit: The Desolation of Smaug,"$959,358,436",85%,75%,,Peter Jackson,Warner Bros. Pictures,"Dec 13, 2013, "
-61,Doctor Strange in the Multiverse of M…,"$952,224,986",N/A,N/A,N/A,N/A,N/A,N/A
-62,The Jungle Book,"$951,806,722",75%,,,Wolfgang Reitherman,N/A,N/A
-63,Harry Potter and the Deathly Hallows:…,"$944,062,255",N/A,N/A,N/A,N/A,N/A,N/A
-64,The Hobbit: The Battle of the Five Ar…,"$940,323,039",N/A,N/A,N/A,N/A,N/A,N/A
-65,Minions: The Rise of Gru,"$937,427,564",89%,70%,,Kyle Balda,Universal Pictures,"Jul 1, 2022, "
-66,Harry Potter and the Order of the Pho…,"$937,034,773",N/A,N/A,N/A,N/A,N/A,N/A
-67,Finding Nemo,"$936,094,852",86%,99%,,Andrew Stanton,Walt Disney Pictures,"May 30, 2003, "
-68,Shrek 2,"$935,454,538",69%,89%,,"Andrew Adamson, 
-Kelly Asbury, 
-Conrad Vernon",DreamWorks Distribution,"May 19, 2004, "
-69,Harry Potter and the Half-Blood Prince,"$926,069,091",N/A,N/A,N/A,N/A,N/A,N/A
-70,Deadpool & Wolverine,"$924,656,382",N/A,N/A,N/A,N/A,N/A,N/A
-71,The Lord of the Rings: The Two Towers,"$921,715,176",95%,95%,,Peter Jackson,New Line Cinema,"Dec 5, 2002, "
-72,Chang jin hu,"$909,596,236",N/A,N/A,N/A,N/A,N/A,N/A
-73,Spider-Man 3,"$895,937,268",N/A,N/A,N/A,N/A,N/A,N/A
-74,The Lord of the Rings: The Fellowship…,"$894,316,394",N/A,N/A,N/A,N/A,N/A,N/A
-75,Ice Age: Dawn of the Dinosaurs,"$886,686,817",63%,46%,,Carlos Saldanha,20th Century Fox,"Jul 1, 2009, "
-76,The Secret Life of Pets,"$886,013,000",62%,70%,,Chris Renaud,Universal Pictures,"Jul 8, 2016, "
-77,Harry Potter and the Goblet of Fire,"$885,222,986",74%,88%,,Mike Newell,Warner Bros. Pictures,"Nov 18, 2005, "
-78,Ice Age: Continental Drift,"$879,765,137",61%,37%,,"Steve Martino, 
-Mike Thurmeier",20th Century Fox,"Jul 13, 2012, "
-79,Bohemian Rhapsody,"$879,088,897",85%,60%,,Bryan Singer,20th Century Fox,"Nov 2, 2018, "
-80,Spectre,"$879,077,344",44%,,,Scott Levy,20th Century Fox,"Nov 2, 2018, "
-81,Spider-Man: Homecoming,"$878,651,127",N/A,N/A,N/A,N/A,N/A,N/A
-82,Harry Potter and the Chamber of Secrets,"$874,954,228",80%,82%,,Chris Columbus,Warner Bros. Pictures,"Nov 15, 2002, "
-83,Batman v Superman: Dawn of Justice,"$872,395,091",63%,29%,,Zack Snyder,Warner Bros. Pictures,"Mar 25, 2016, "
-84,Zhan Lang 2,"$870,325,439",N/A,N/A,N/A,N/A,N/A,N/A
-85,Guardians of the Galaxy Vol 2,"$869,087,963",87%,85%,,James Gunn,Walt Disney Pictures,"May 5, 2017, "
-86,The Hunger Games: Catching Fire,"$864,808,014",89%,90%,,Francis Lawrence,Lionsgate Films,"Nov 22, 2013, "
-87,Venom,"$856,081,053",,,,Michael McAdam,Lionsgate Films,"Nov 22, 2013, "
-88,Black Panther: Wakanda Forever,"$853,985,546",94%,84%,,Ryan Coogler,Walt Disney Pictures,"Nov 11, 2022, "
-89,Thor: Ragnarok,"$850,482,778",87%,93%,,Taika Waititi,Walt Disney,"Nov 3, 2017, "
-90,Inside Out,"$850,309,035",37%,,,David Ogden,Walt Disney,"Nov 3, 2017, "
-91,Star Wars Ep. III: Revenge of the Sith,"$848,998,877",N/A,N/A,N/A,N/A,N/A,N/A
-92,Guardians of the Galaxy Vol 3,"$845,468,744",94%,82%,,James Gunn,Walt Disney Pictures,"May 5, 2023, "
-93,"Hi, Mom (你好)","$841,674,419",N/A,N/A,N/A,N/A,N/A,N/A
-94,Transformers: Revenge of the Fallen,"$836,519,699",57%,20%,,Michael Bay,Paramount Pictures,"Jun 24, 2009, "
-95,"The Twilight Saga: Breaking Dawn, Part 2","$829,724,737",N/A,N/A,N/A,N/A,N/A,N/A
-96,Inception,"$825,786,894",91%,87%,,Christopher Nolan,Warner Bros. Pictures,"Jul 16, 2010, "
-97,Spider-Man,"$822,652,858",N/A,N/A,N/A,N/A,N/A,N/A
-98,Wonder Woman,"$817,691,766",78%,85%,,Lauren Montgomery,N/A,N/A
-99,Independence Day,"$817,400,878",,,,Bobby Roth,N/A,"Nov 10, 1976, Original"
-100,Fantastic Beasts and Where to Find Them,"$811,724,385",79%,74%,,David Yates,Warner Bros. Pictures,"Nov 18, 2016, "
-101,Shrek the Third,"$807,330,936",52%,42%,,Chris Miller,Paramount Pictures,"May 18, 2007, "
-102,E.T. the Extra-Terrestrial,"$797,307,407",N/A,N/A,N/A,N/A,N/A,N/A
-103,Coco,"$796,401,721",15%,,,Gad Elmaleh,N/A,N/A
-104,Spider-Man 2,"$795,888,127",N/A,N/A,N/A,N/A,N/A,N/A
-105,Jumanji: The Next Level,"$795,356,912",87%,72%,,Jake Kasdan,"Columbia Pictures, 
-Sony Pictures Entertainment","Dec 13, 2019, "
-106,Pirates of the Caribbean: Dead Men Te…,"$794,861,794",N/A,N/A,N/A,N/A,N/A,N/A
-107,Fast and Furious 6,"$789,300,444",84%,71%,,Justin Lin,Universal Pictures,"May 24, 2013, "
-108,Indiana Jones and the Kingdom of the …,"$786,635,413",N/A,N/A,N/A,N/A,N/A,N/A
-109,Mission: Impossible—Fallout,"$786,626,183",N/A,N/A,N/A,N/A,N/A,N/A
-110,Deadpool 2,"$786,362,370",85%,84%,,David Leitch,20th Century Fox,"May 18, 2018, "
-111,Harry Potter and the Prisoner of Azkaban,"$783,221,274",86%,90%,,Alfonso Cuarón,Warner Bros. Pictures,"May 31, 2004, Original"
-112,Deadpool,"$781,947,691",90%,85%,,Tim Miller,20th Century Fox,"Feb 12, 2016, "
-113,Star Wars Ep. IV: A New Hope,"$775,398,007",N/A,N/A,N/A,N/A,N/A,N/A
-114,Guardians of the Galaxy,"$770,882,395",92%,92%,,James Gunn,Walt Disney Pictures,"Aug 1, 2014, "
-115,The Da Vinci Code,"$767,820,459",N/A,N/A,N/A,N/A,N/A,N/A
-116,The Hunger Games: Mockingjay - Part 1,"$766,575,131",N/A,N/A,N/A,N/A,N/A,N/A
-117,The Batman,"$765,950,479",87%,85%,,Matt Reeves,Warner Bros. Pictures,"Mar 4, 2022, "
-118,Despicable Me 4,"$762,414,538",88%,55%,,Chris Renaud,Universal Pictures,"Jul 3, 2024, "
-119,Thor: Love and Thunder,"$760,928,081",76%,63%,,Taika Waititi,Walt Disney Pictures,"Jul 8, 2022, "
-120,Fast & Furious Presents: Hobbs & Shaw,"$760,732,926",N/A,N/A,N/A,N/A,N/A,N/A
-121,No Time to Die,"$758,929,771",,,,Helmut Ashley,N/A,N/A
-122,The Amazing Spider-Man,"$758,576,824",N/A,N/A,N/A,N/A,N/A,N/A
-123,Maleficent,"$758,536,735",70%,54%,,Robert Stromberg,Walt Disney,"May 30, 2014, "
-124,2012,"$757,677,748",47%,39%,,Roland Emmerich,Sony Pictures Entertainment,"Nov 13, 2009, "
-125,Shrek Forever After,"$756,244,673",54%,57%,,Mike Mitchell,"DreamWorks SKG, 
-Paramount Pictures","May 21, 2010, "
-126,X-Men: Days of Future Past,"$747,862,775",N/A,N/A,N/A,N/A,N/A,N/A
-127,Madagascar 3: Europe's Most Wanted,"$746,921,271",N/A,N/A,N/A,N/A,N/A,N/A
-128,Suicide Squad,"$745,744,980",50%,,,Brian Desmond Hurst,N/A,N/A
-129,Monsters University,"$743,455,810",81%,80%,,Dan Scanlon,Walt Disney,"Jun 21, 2013, "
-130,Ne Zha (哪吒之魔童降世),"$742,718,496",N/A,N/A,N/A,N/A,N/A,N/A
-131,The Matrix Reloaded,"$738,576,929",72%,73%,,"Lilly Wachowski, 
-Lana Wachowski",Warner Bros. Pictures,"May 15, 2003, "
-132,Up,"$731,463,377",90%,98%,,"Pete Docter, 
-Bob Peterson","Pixar Animation Studios, 
-Walt Disney","May 29, 2009, "
-133,"The Chronicles of Narnia: The Lion, t…","$720,539,572",N/A,N/A,N/A,N/A,N/A,N/A
-134,F9: The Fast Saga,"$719,360,068",N/A,N/A,N/A,N/A,N/A,N/A
-135,Fast X,"$714,567,285",84%,56%,,Louis Leterrier,Universal Pictures,"May 19, 2023, "
-136,Captain America: The Winter Soldier,"$714,401,889",92%,90%,,"Anthony Russo, 
-Joe Russo",Walt Disney Pictures,"Apr 4, 2014, "
-137,Dawn of the Planet of the Apes,"$710,644,566",88%,91%,,Matt Reeves,20th Century Fox,"Jul 11, 2014, "
-138,Dune: Part Two,"$710,020,114",95%,92%,,Denis Villeneuve,Warner Bros. Pictures,"Mar 1, 2024, "
-139,The Amazing Spider-Man 2,"$709,672,746",N/A,N/A,N/A,N/A,N/A,N/A
-140,Transformers,"$708,272,592",N/A,N/A,N/A,N/A,N/A,N/A
-141,The Twilight Saga: Eclipse,"$706,102,828",60%,46%,,David Slade,Summit Entertainment,"Jun 30, 2010, "
-142,It,"$701,012,746",,,,Sergei Ovcharov,Summit Entertainment,"Jun 30, 2010, "
-143,Mission: Impossible—Ghost Protocol,"$694,713,230",N/A,N/A,N/A,N/A,N/A,N/A
-144,Mission: Impossible—Rogue Nation,"$688,858,992",N/A,N/A,N/A,N/A,N/A,N/A
-145,The Twilight Saga: New Moon,"$687,557,727",61%,28%,,Chris Weitz,Summit Entertainment,"Nov 20, 2009, "
-146,Moana,"$687,228,908",65%,87%,,Robert J. Flaherty,Paramount Pictures,"Jan 7, 1926, Original"
-147,Gravity,"$684,657,731",29%,,,Peter J. Eaton,Paramount Pictures,"Jan 7, 1926, Original"
-148,"The Twilight Saga: Breaking Dawn, Part 1","$684,436,752",N/A,N/A,N/A,N/A,N/A,N/A
-149,Spider-Man: Across the Spider-Verse,"$681,222,435",N/A,N/A,N/A,N/A,N/A,N/A
-150,Forrest Gump,"$679,835,137",95%,76%,,Robert Zemeckis,Paramount Pictures,"Jul 6, 1994, "
-151,The Hunger Games,"$677,923,379",81%,84%,,Gary Ross,Lionsgate Films,"Mar 23, 2012, "
-152,Doctor Strange,"$676,343,174",N/A,N/A,N/A,N/A,N/A,N/A
-153,The Sixth Sense,"$672,806,292",N/A,N/A,N/A,N/A,N/A,N/A
-154,Man of Steel,"$667,999,518",,,,Ken Anderson,N/A,"Mar 25, 1967, Limited"
-155,Kung Fu Panda 2,"$664,837,547",N/A,N/A,N/A,N/A,N/A,N/A
-156,Star Wars Ep. II: Attack of the Clones,"$656,695,615",N/A,N/A,N/A,N/A,N/A,N/A
-157,Justice League,"$655,945,209",N/A,N/A,N/A,N/A,N/A,N/A
-158,Pirates of the Caribbean: The Curse o…,"$654,310,819",N/A,N/A,N/A,N/A,N/A,N/A
-159,Men in Black 3,"$654,213,485",N/A,N/A,N/A,N/A,N/A,N/A
-160,The Martian,"$653,609,107",91%,91%,,Ridley Scott,20th Century Fox,"Oct 2, 2015, "
-161,The Wandering Earth (流浪地球),"$652,251,170",N/A,N/A,N/A,N/A,N/A,N/A
-162,Ice Age: The Meltdown,"$651,899,282",N/A,N/A,N/A,N/A,N/A,N/A
-163,Fantastic Beasts: The Crimes of Grind…,"$648,455,339",N/A,N/A,N/A,N/A,N/A,N/A
-164,Big Hero 6,"$647,263,005",91%,90%,,"Don Hall, 
-Chris Williams",Walt Disney,"Nov 7, 2014, "
-165,Interstellar,"$647,040,051",86%,73%,,Christopher Nolan,Paramount Pictures,"Nov 7, 2014, "
-166,The Hunger Games: Mockingjay - Part 2,"$646,219,954",N/A,N/A,N/A,N/A,N/A,N/A
-167,Thor: The Dark World,"$644,602,516",75%,67%,,Alan Taylor,Walt Disney,"Nov 8, 2013, "
-168,Full River Red (满江红),"$634,631,282",N/A,N/A,N/A,N/A,N/A,N/A
-169,Kung Fu Panda,"$631,910,531",83%,87%,,"John Stevenson, 
-Mark Osborne",DreamWorks SKG,"Jun 6, 2008, "
-170,The Incredibles,"$631,441,092",75%,97%,,Brad Bird,Walt Disney Pictures,"Nov 5, 2004, "
-171,Sing,"$631,064,182",88%,43%,,Richard Baskin,Walt Disney Pictures,"Mar 31, 1989, Limited"
-172,Fast Five,"$629,975,898",83%,78%,,Justin Lin,Universal Pictures,"Apr 29, 2011, "
-173,Wonka,"$629,037,798",91%,82%,,Paul King,Warner Bros. Pictures,"Dec 15, 2023, "
-174,Ratatouille,"$626,549,695",87%,96%,,Brad Bird,Buena Vista,"Jun 29, 2007, "
-175,Tang Ren Jie Tan An 3,"$625,136,211",N/A,N/A,N/A,N/A,N/A,N/A
-176,Hancock,"$624,234,272",59%,42%,,Peter Berg,Sony Pictures Entertainment,"Jul 2, 2008, "
-177,Ant-Man and the Wasp,"$623,144,660",N/A,N/A,N/A,N/A,N/A,N/A
-178,The Passion of the Christ,"$622,313,635",N/A,N/A,N/A,N/A,N/A,N/A
-179,Iron Man 2,"$621,156,389",71%,72%,,Jon Favreau,Paramount Pictures,"May 7, 2010, "
-180,Life of Pi,"$619,310,368",84%,86%,,Ang Lee,20th Century Fox,"Nov 21, 2012, "
-181,The Lost World: Jurassic Park,"$618,638,999",N/A,N/A,N/A,N/A,N/A,N/A
-182,How to Train Your Dragon 2,"$614,586,270",90%,92%,,"Dean DeBlois, 
-Tom Owens",20th Century Fox,"Jun 13, 2014, "
-183,Logan,"$614,202,315",N/A,N/A,N/A,N/A,N/A,N/A
-184,War of the Worlds,"$606,836,535",42%,76%,,Steven Spielberg,Paramount Pictures,"Jun 29, 2005, "
-185,Chang Jin Hu Zhi Shui Men Qiao (长津湖之水…,"$602,986,104",N/A,N/A,N/A,N/A,N/A,N/A
-186,Transformers: The Last Knight,"$602,893,340",43%,16%,,Michael Bay,Paramount Pictures,"Jun 21, 2017, "
-187,Madagascar: Escape 2 Africa,"$599,680,774",66%,64%,,"Eric Darnell, 
-Tom McGrath",DreamWorks SKG,"Nov 7, 2008, "
-188,Casino Royale,"$594,420,216",90%,94%,,Martin Campbell,Sony Pictures Entertainment,"Nov 17, 2006, "
-189,Quantum of Solace,"$591,692,078",58%,64%,,Marc Forster,Metro-Goldwyn-Mayer,"Nov 14, 2008, "
-190,Men in Black,"$587,790,539",80%,91%,,Barry Sonnenfeld,Columbia Pictures,"Jul 4, 1997, "
-191,The Hangover Part II,"$586,764,305",52%,34%,,Todd Phillips,Warner Bros. Pictures,"May 26, 2011, "
-192,I am Legend,"$585,532,684",68%,68%,,Francis Lawrence,Warner Bros.,"Dec 14, 2007, "
-193,Iron Man,"$585,171,547",91%,94%,,Jon Favreau,Paramount Pictures,"May 2, 2008, "
-194,Mamma Mia!,"$584,481,736",N/A,N/A,N/A,N/A,N/A,N/A
-195,Tangled,"$582,440,151",87%,89%,,"Nathan Greno, 
-Byron Howard",Walt Disney,"Nov 24, 2010, "
-196,Night at the Museum,"$579,446,407",67%,42%,,Shawn Levy,20th Century Fox,"Dec 22, 2006, "
-197,Ready Player One,"$579,055,653",77%,72%,,Steven Spielberg,Warner Bros. Pictures,"Mar 29, 2018, "
-198,The Croods,"$573,068,425",77%,72%,,"Christopher Sanders, 
-Kirk DeMicco",20th Century Fox,"Mar 22, 2013, "
-199,Fifty Shades of Grey,"$570,794,950",41%,25%,,Sam Taylor-Johnson,Focus Features,"Feb 13, 2015, "
-200,The Little Mermaid,"$569,626,289",54%,,,"Masakazu Higuchi, 
-Chinami Namba",Focus Features,"Feb 13, 2015, "
-201,Godzilla x Kong: The New Empire,"$568,721,707",91%,54%,,Adam Wingard,Warner Bros. Pictures,"Mar 29, 2024, "
-202,Mission: Impossible Dead Reckoning Pa…,"$566,644,143",N/A,N/A,N/A,N/A,N/A,N/A
-203,The Smurfs,"$563,749,323",43%,21%,,Raja Gosnell,Sony Pictures,"Jul 29, 2011, "
-204,The Wandering Earth 2 (流浪地球2),"$562,688,972",N/A,N/A,N/A,N/A,N/A,N/A
-205,Kong: Skull Island,"$561,072,059",70%,75%,,Jordan Vogt-Roberts,Warner Bros. Pictures,"Mar 10, 2017, "
-206,"Monsters, Inc.","$560,483,719",N/A,N/A,N/A,N/A,N/A,N/A
-207,Cars 2,"$560,155,383",49%,39%,,John Lasseter,"Walt Disney, 
-Pixar Animation Studios","Jun 24, 2011, "
-208,Madagascar,"$556,559,566",67%,55%,,"Eric Darnell, 
-Tom McGrath",DreamWorks SKG,"May 27, 2005, "
-209,Ted,"$556,016,627",,,,Gary Ellenberg,DreamWorks SKG,"May 27, 2005, "
-210,The Day After Tomorrow,"$555,840,117",N/A,N/A,N/A,N/A,N/A,N/A
-211,Puss in Boots,"$554,987,477",,,,Karthik Chandan,N/A,N/A
-212,Brave,"$554,606,532",75%,79%,,"Mark Andrews, 
-Brenda Chapman","Walt Disney, 
-Pixar Animation Studios","Jun 22, 2012, "
-213,Armageddon,"$554,600,000",73%,43%,,Michael Bay,"Buena Vista Pictures, 
-Touchstone Pictures, 
-Criterion Collection, 
-Touchstone Home Video","Jul 1, 1998, Original"
-214,King Kong,"$550,517,357",50%,84%,,Peter Jackson,Universal Pictures,"Dec 14, 2005, "
-215,Mission: Impossible 2,"$549,588,516",42%,56%,,John Woo,Paramount Pictures,"May 24, 2000, "
-216,Star Wars Ep. V: The Empire Strikes Back,"$549,001,086",N/A,N/A,N/A,N/A,N/A,N/A
-217,American Sniper,"$547,326,372",84%,72%,,Clint Eastwood,Warner Bros. Pictures,"Jan 16, 2015, "
-218,Kung Fu Panda 4,"$545,985,797",86%,71%,,Mike Mitchell,Universal Pictures,"Mar 8, 2024, "
-219,Despicable Me,"$544,707,293",83%,80%,,"Chris Renaud, 
-Pierre Coffin",Universal Pictures,"Jul 9, 2010, "
-220,Tang Ren Jie Tan An 2,"$544,068,574",N/A,N/A,N/A,N/A,N/A,N/A
-221,Hong Hai Xing Dong,"$543,391,535",N/A,N/A,N/A,N/A,N/A,N/A
-222,X-Men: Apocalypse,"$542,537,546",N/A,N/A,N/A,N/A,N/A,N/A
-223,Cinderella,"$542,351,353",80%,98%,,"Clyde Geronimi, 
-Wilfred Jackson, 
-Hamilton Luske","RKO Radio Pictures, 
-Buena Vista Pictures","Feb 15, 1950, Original"
-224,Sherlock Holmes: A Game of Shadows,"$535,663,443",77%,60%,,Guy Ritchie,Warner Bros. Pictures,"Dec 16, 2011, "
-225,The Revenant,"$532,938,302",N/A,N/A,N/A,N/A,N/A,N/A
-226,No More Bets (孤注一掷),"$532,726,980",N/A,N/A,N/A,N/A,N/A,N/A
-227,WALL-E,"$532,508,025",N/A,N/A,N/A,N/A,N/A,N/A
-228,World War Z,"$531,861,650",72%,67%,,Marc Forster,Paramount Pictures,"Jun 21, 2013, "
-229,Ralph Breaks The Internet,"$529,290,830",64%,88%,,"Phil Johnston, 
-Rich Moore",Walt Disney,"Nov 21, 2018, "
-230,Godzilla,"$529,076,069",28%,20%,,Roland Emmerich,Columbia Pictures,"May 19, 1998, "
-231,Hotel Transylvania 3: Summer Vacation,"$528,500,000",49%,62%,,Genndy Tartakovsky,"Sony Pictures Entertainment, 
-Columbia Pictures","Jul 13, 2018, "
-232,The Boss Baby,"$527,909,949",51%,53%,,Tom McGrath,20th Century Fox,"Mar 31, 2017, "
-233,The Meg,"$527,267,828",44%,47%,,Jon Turteltaub,Warner Bros. Pictures,"Aug 10, 2018, "
-234,The Simpsons Movie,"$527,071,022",,,,David Silverman,Warner Bros. Pictures,"Aug 10, 2018, "
-235,Mei Ren Yu,"$525,018,479",60%,95%,,Stephen Chow,Sony Pictures Entertainment,"Feb 19, 2016, Limited"
-236,How to Train Your Dragon: The Hidden …,"$520,691,182",N/A,N/A,N/A,N/A,N/A,N/A
-237,Kung Fu Panda 3,"$520,189,225",79%,86%,,"Jennifer Yuh Nelson, 
-Alessandro Carloni",20th Century Fox,"Jan 29, 2016, "
-238,Ant-Man,"$518,858,449",N/A,N/A,N/A,N/A,N/A,N/A
-239,Ghost,"$517,599,988",50%,,N/A,Kim Tae-kyeong,N/A,N/A
-240,Meet the Fockers,"$516,567,575",58%,39%,,Jay Roach,Universal Pictures,"Dec 22, 2004, "
-241,Terminator 2: Judgment Day,"$515,361,524",95%,91%,,James Cameron,"Pioneer Entertainment, 
-Live Video, 
-Artisan Entertainment, 
-TriStar Pictures","Jul 3, 1991, "
-242,Dr. Seuss’ The Grinch,"$514,873,747",N/A,N/A,N/A,N/A,N/A,N/A
-243,Toy Story 2,"$511,358,276",87%,100%,,"Ash Brannon, 
-John Lasseter, 
-Lee Unkrich",Walt Disney Pictures,"Nov 24, 1999, "
-244,Dunkirk,"$509,736,928",73%,60%,,Leslie Norman,Walt Disney Pictures,"Nov 24, 1999, "
-245,Demon Slayer: Kimetsu no Yaiba—The Mo…,"$507,119,058",N/A,N/A,N/A,N/A,N/A,N/A
-246,Aladdin,"$504,050,219",94%,57%,,Guy Ritchie,Walt Disney,"May 24, 2019, "
-247,Venom: Let There be Carnage,"$501,546,922",84%,57%,,Andy Serkis,Columbia Pictures,"Oct 1, 2021, "
-248,Sherlock Holmes,"$498,438,212",,,,George Anton,Columbia Pictures,"Oct 1, 2021, "
-249,Wreck-It Ralph,"$496,511,521",N/A,N/A,N/A,N/A,N/A,N/A
-250,Twister,"$495,700,000",N/A,N/A,N/A,N/A,N/A,N/A
-251,How to Train Your Dragon,"$494,870,992",91%,99%,,"Christopher Sanders, 
-Dean DeBlois","DreamWorks SKG, 
-Paramount Pictures","Mar 26, 2010, "
-252,Clash of the Titans,"$493,214,888",70%,64%,,Desmond Davis,"Metro-Goldwyn-Mayer Distributing Corp., 
-Warner Home Vídeo, 
-MGM/UA Home Entertainment Inc.","Jun 12, 1981, "
-253,Rio 2,"$492,846,291",58%,49%,,Carlos Saldanha,20th Century Fox,"Apr 11, 2014, "
-254,Shrek,"$492,186,434",90%,88%,,"Andrew Adamson, 
-Vicky Jenson",DreamWorks SKG,"May 18, 2001, "
-255,Angels & Demons,"$490,875,846",N/A,N/A,N/A,N/A,N/A,N/A
-256,Oz the Great and Powerful,"$490,359,051",56%,57%,,Sam Raimi,Walt Disney,"Mar 8, 2013, "
-257,War for the Planet of the Apes,"$489,592,267",84%,94%,,Matt Reeves,20th Century Fox,"Jul 14, 2017, "
-258,Maleficent: Mistress of Evil,"$489,181,357",95%,39%,,Joachim Rønning,Walt Disney,"Oct 18, 2019, "
-259,Xiāo Shī De Tā (消失的她),"$488,379,038",N/A,N/A,N/A,N/A,N/A,N/A
-260,Rio,"$487,517,241",71%,72%,,Carlos Saldanha,"20th Century Fox, 
-Blue Sky Animation","Apr 15, 2011, "
-261,Mr. and Mrs. Smith,"$486,124,090",N/A,N/A,N/A,N/A,N/A,N/A
-262,Puss in Boots: The Last Wish,"$485,254,377",94%,95%,,Joel Crawford,Universal Pictures,"Dec 21, 2022, "
-263,Saving Private Ryan,"$485,035,085",95%,94%,,Steven Spielberg,"Paramount Pictures, 
-DreamWorks SKG","Jul 24, 1998, "
-264,Teenage Mutant Ninja Turtles,"$485,004,754",60%,36%,,Kevin Munroe,Warner Bros.,"Mar 23, 2007, "
-265,Elemental,"$484,829,737",60%,100%,,"Gayatri Roshan, 
-Emmanuel Vaughan-Lee",Warner Bros.,"Mar 23, 2007, "
-266,Les Intouchables,"$484,630,908",N/A,N/A,N/A,N/A,N/A,N/A
-267,Bruce Almighty,"$484,468,608",57%,48%,,Tom Shadyac,Universal Pictures,"May 23, 2003, "
-268,Jaws,"$483,655,893",90%,97%,,Steven Spielberg,"Universal Pictures, 
-DiscoVision","Jun 20, 1975, "
-269,Troy,"$483,152,040",73%,53%,,Wolfgang Petersen,Warner Bros. Pictures,"May 13, 2004, "
-270,Star Wars Ep. VI: Return of the Jedi,"$482,365,284",N/A,N/A,N/A,N/A,N/A,N/A
-271,YOLO (热辣滚烫),"$479,597,304",N/A,N/A,N/A,N/A,N/A,N/A
-272,Home Alone,"$476,680,641",80%,66%,,Chris Columbus,20th Century Fox,"Nov 16, 1990, "
-273,Charlie and the Chocolate Factory,"$475,825,484",51%,83%,,Tim Burton,Warner Bros. Pictures,"Jul 15, 2005, "
-274,Hotel Transylvania 2,"$474,800,000",64%,57%,,Genndy Tartakovsky,Sony Pictures Entertainment,"Sep 25, 2015, "
-275,Wo he wo de zu guo,"$474,488,019",N/A,N/A,N/A,N/A,N/A,N/A
-276,Indiana Jones and the Last Crusade,"$474,171,806",94%,84%,,Steven Spielberg,Paramount Pictures,"May 24, 1989, "
-277,Ba bai,"$472,648,086",N/A,N/A,N/A,N/A,N/A,N/A
-278,Rise of the Planet of the Apes,"$470,986,200",77%,82%,,Rupert Wyatt,20th Century Fox,"Aug 5, 2011, "
-279,The Lego Movie,"$467,576,428",87%,96%,,"Phil Lord, 
-Christopher Miller",Warner Bros. Pictures,"Feb 7, 2014, "
-280,It: Chapter Two,"$467,561,586",78%,62%,,Andy Muschietti,Warner Bros. Pictures,"Sep 6, 2019, "
-281,Star Trek Into Darkness,"$467,381,584",89%,84%,,J.J. Abrams,Paramount Pictures,"May 16, 2013, "
-282,Pegasus 2 (飞驰人生2),"$466,930,272",N/A,N/A,N/A,N/A,N/A,N/A
-283,The Matrix,"$465,974,198",85%,83%,,"Lilly Wachowski, 
-Lana Wachowski",Warner Bros. Pictures,"Mar 31, 1999, "
-284,The Hangover,"$465,487,583",84%,79%,,Todd Phillips,Warner Bros.,"Jun 5, 2009, "
-285,Bumblebee,"$464,731,819",75%,90%,,Travis Knight,Paramount Pictures,"Dec 21, 2018, "
-286,Ant-Man and the Wasp: Quantumania,"$463,635,303",N/A,N/A,N/A,N/A,N/A,N/A
-287,Cars,"$461,630,558",80%,75%,,"John Lasseter, 
-Joe Ranft",Walt Disney Pictures,"Jun 9, 2006, "
-288,Du Xing Yue Qiu (独行月球),"$460,303,199",N/A,N/A,N/A,N/A,N/A,N/A
-289,X-Men: The Last Stand,"$459,260,946",N/A,N/A,N/A,N/A,N/A,N/A
-290,Mission: Impossible,"$457,697,994",71%,65%,,Brian De Palma,Paramount Pictures,"May 22, 1996, Original"
-291,Lucy,"$457,507,776",14%,,,Henner Winckler,Paramount Pictures,"May 22, 1996, Original"
-292,National Treasure: Book of Secrets,"$457,325,804",67%,36%,,Jon Turteltaub,Buena Vista,"Dec 21, 2007, "
-293,The Last Samurai,"$456,810,575",N/A,N/A,N/A,N/A,N/A,N/A
-294,San Andreas,"$456,258,539",52%,49%,,Brad Peyton,Warner Bros. Pictures,"May 29, 2015, "
-295,300,"$454,161,935",89%,61%,,Zack Snyder,Warner Bros.,"Mar 9, 2007, "
-296,Gladiator,"$451,683,599",87%,80%,,Ridley Scott,"Universal Pictures, 
-DreamWorks SKG","May 5, 2000, "
-297,Wo Bi Shi Yao Shen,"$451,183,392",N/A,N/A,N/A,N/A,N/A,N/A
-298,Ocean's Eleven,"$450,728,529",N/A,N/A,N/A,N/A,N/A,N/A
-299,Django Unchained,"$449,841,566",92%,87%,,Quentin Tarantino,Weinstein Co.,"Dec 25, 2012, "
-300,Godzilla vs. Kong,"$449,450,112",N/A,N/A,N/A,N/A,N/A,N/A
-301,Thor,"$449,326,618",76%,77%,,Kenneth Branagh,Paramount Pictures,"May 6, 2011, "
-302,Pearl Harbor,"$449,239,853",N/A,N/A,N/A,N/A,N/A,N/A
-303,Tarzan,"$448,191,819",75%,89%,,"Chris Buck, 
-Kevin Lima",American International Pictures,"Jun 18, 1999, "
-304,The Secret Life of Pets 2,"$446,449,908",90%,60%,,Chris Renaud,Universal Pictures,"Jun 7, 2019, "
-305,The Bourne Ultimatum,"$444,043,396",N/A,N/A,N/A,N/A,N/A,N/A
-306,Alvin and the Chipmunks: The Squeakquel,"$443,483,213",N/A,N/A,N/A,N/A,N/A,N/A
-307,Men in Black 2,"$441,767,803",N/A,N/A,N/A,N/A,N/A,N/A
-308,Mrs. Doubtfire,"$441,286,003",N/A,N/A,N/A,N/A,N/A,N/A
-309,John Wick: Chapter 4,"$440,320,578",93%,94%,,Chad Stahelski,Lionsgate,"Mar 24, 2023, "
-310,Transformers: Rise of the Beasts,"$439,241,749",91%,52%,,Steven Caple Jr.,Paramount Pictures,"Jun 9, 2023, "
-311,Warcraft,"$438,899,824",76%,29%,,Duncan Jones,Universal Pictures,"Jun 10, 2016, "
-312,Beauty and the Beast,"$438,656,843",,,,Diane Eskenazi,Universal Pictures,"Jun 10, 2016, "
-313,Les Misérables,"$435,292,452",N/A,N/A,N/A,N/A,N/A,N/A
-314,The Mummy Returns,"$435,040,395",N/A,N/A,N/A,N/A,N/A,N/A
-315,La La Land,"$433,850,071",81%,91%,,Damien Chazelle,Lionsgate Films,"Dec 25, 2016, "
-316,Aquaman and the Lost Kingdom,"$433,845,564",81%,33%,,James Wan,Warner Bros. Pictures,"Dec 22, 2023, "
-317,Wo He Wo De Jia Xiang,"$433,241,288",N/A,N/A,N/A,N/A,N/A,N/A
-318,Zhongguo jizhang,"$433,168,672",,,N/A,Andrew Lau Wai-Keung,N/A,N/A
-319,Terminator 3: Rise of the Machines,"$433,058,296",46%,70%,,Jonathan Mostow,Warner Bros. Pictures,"Jul 2, 2003, "
-320,Pretty Woman,"$432,566,361",68%,65%,,Garry Marshall,Buena Vista Pictures,"Mar 23, 1990, Original"
-321,Shang-Chi and the Legend of the Ten R…,"$432,224,634",N/A,N/A,N/A,N/A,N/A,N/A
-322,Terminator: Genisys,"$432,150,894",52%,26%,,Alan Taylor,Paramount Pictures,"Jul 1, 2015, "
-323,Die Another Day,"$431,942,139",41%,55%,,Lee Tamahori,"20th Century Fox Italia, 
-UGC-Fox Distribution, 
-Gativideo, 
-20th Century Fox, 
-Metro-Goldwyn-Mayer, 
-20th Century Fox of Germany","Nov 22, 2002, "
-324,A Star is Born,"$431,674,156",80%,90%,,Bradley Cooper,Warner Bros. Pictures,"Oct 5, 2018, "
-325,The King’s Speech,"$430,061,213",N/A,N/A,N/A,N/A,N/A,N/A
-326,Dune,"$429,941,853",N/A,N/A,N/A,N/A,N/A,N/A
-327,Pokémon: Detective Pikachu,"$428,919,826",N/A,N/A,N/A,N/A,N/A,N/A
-328,The Greatest Showman,"$428,875,907",86%,57%,,Michael Gracey,20th Century Fox,"Dec 20, 2017, "
-329,The Exorcist,"$428,824,083",87%,78%,,William Friedkin,Warner Bros. Pictures,"Dec 26, 1973, Original"
-330,Rampage,"$427,947,217",,,,Steve Savage,Warner Bros. Pictures,"Dec 26, 1973, Original"
-331,The Matrix Revolutions,"$427,300,260",60%,34%,,"Lilly Wachowski, 
-Lana Wachowski",Warner Bros. Pictures,"Nov 5, 2003, "
-332,Cast Away,"$427,230,516",84%,89%,,Robert Zemeckis,DreamWorks SKG,"Dec 22, 2000, "
-333,Bad Boys For Life,"$424,471,663",96%,75%,,"Adil El Arbi, 
-Bilall Fallah","Columbia Pictures, 
-Sony Pictures Entertainment","Jan 17, 2020, "
-334,Dances with Wolves,"$424,208,805",87%,87%,,Kevin Costner,"Image Entertainment Inc., 
-Orion Pictures, 
-MGM/UA Home Entertainment Inc.","Nov 21, 1990, "
-335,The Chronicles of Narnia: The Voyage …,"$418,186,950",N/A,N/A,N/A,N/A,N/A,N/A
-336,The Mummy,"$418,138,535",75%,62%,,Stephen Sommers,Universal Pictures,"May 7, 1999, "
-337,The Chronicles of Narnia: Prince Caspian,"$417,341,288",N/A,N/A,N/A,N/A,N/A,N/A
-338,The Wolverine,"$416,456,852",N/A,N/A,N/A,N/A,N/A,N/A
-339,Jason Bourne,"$416,168,316",55%,54%,,Paul Greengrass,Universal Pictures,"Jul 29, 2016, "
-340,Sex and the City,"$415,247,258",77%,50%,,Michael Patrick King,Warner Bros.,"May 30, 2008, "
-341,Rain Man,"$412,800,000",90%,88%,,Barry Levinson,"MGM/UA Home Entertainment Inc., 
-United Artists","Dec 14, 1988, "
-342,Batman,"$411,348,924",N/A,N/A,N/A,N/A,N/A,N/A
-343,The Bodyguard,"$411,006,740",,,,Ali Khamraev,N/A,N/A
-344,Pacific Rim,"$411,002,906",N/A,N/A,N/A,N/A,N/A,N/A
-345,The Mummy,"$409,953,905",75%,62%,,Stephen Sommers,Universal Pictures,"May 7, 1999, "
-346,Kingsman: The Golden Circle,"$408,803,696",64%,50%,,Matthew Vaughn,20th Century Fox,"Sep 22, 2017, "
-347,Signs,"$408,250,578",67%,75%,,M. Night Shyamalan,Touchstone Pictures,"Aug 2, 2002, "
-348,X-Men 2,"$406,348,630",N/A,N/A,N/A,N/A,N/A,N/A
-349,The Mummy: Tomb of the Dragon Emperor,"$405,760,225",N/A,N/A,N/A,N/A,N/A,N/A
-350,Sonic the Hedgehog 2,"$405,154,426",96%,68%,,Jeff Fowler,Paramount Pictures,"Apr 8, 2022, "
-351,Kingsman: The Secret Service,"$404,561,724",84%,75%,,Matthew Vaughn,20th Century Fox,"Feb 13, 2015, "
-352,Fantastic Beasts: The Secrets of Dumb…,"$404,560,145",N/A,N/A,N/A,N/A,N/A,N/A
-353,Sing 2,"$404,534,588",98%,72%,,"Garth Jennings, 
-Christophe Lourdelet",Universal Pictures,"Dec 22, 2021, "
-354,Prometheus,"$402,448,265",,,,Tony Harrison,Universal Pictures,"Dec 22, 2021, "
-355,Twilight,"$402,278,564",72%,49%,,Catherine Hardwicke,Summit Entertainment,"Nov 21, 2008, "
-356,Night at the Museum: Battle of the Sm…,"$402,231,063",N/A,N/A,N/A,N/A,N/A,N/A
-357,Ice Age: Collision Course,"$402,156,682",39%,18%,,Mike Thurmeier,20th Century Fox,"Jul 22, 2016, "
-358,Alita: Battle Angel,"$401,900,040",91%,61%,,Robert Rodriguez,20th Century Fox,"Feb 14, 2019, "
-359,Eternals,"$401,731,759",77%,47%,,Chloé Zhao,Walt Disney,"Nov 5, 2021, "
-360,Snow White and the Huntsman,"$401,021,746",52%,49%,,Rupert Sanders,Universal Pictures,"Jun 1, 2012, "
-361,Uncharted,"$400,689,914",17%,,,Frank Nunez,Universal Pictures,"Jun 1, 2012, "
-362,Tron: Legacy,"$399,866,199",N/A,N/A,N/A,N/A,N/A,N/A
-363,Mission: Impossible III,"$399,387,745",N/A,N/A,N/A,N/A,N/A,N/A
-364,Bad Boys: Ride or Die,"$398,454,005",97%,65%,,"Adil El Arbi, 
-Bilall Fallah",Columbia Pictures,"Jun 7, 2024, "
-365,Kingdom of the Planet of the Apes,"$396,347,310",78%,80%,,Wes Ball,20th Century Studios,"May 10, 2024, "
-366,Meg 2: The Trench,"$394,299,160",73%,27%,,Ben Wheatley,Warner Bros. Pictures,"Aug 4, 2023, "
-367,Mamma Mia: Here We Go Again!,"$393,439,007",N/A,N/A,N/A,N/A,N/A,N/A
-368,Solo: A Star Wars Story,"$393,151,347",63%,69%,,Ron Howard,Walt Disney,"May 25, 2018, "
-369,Ji Su Shi Ke (这个杀手不太冷静),"$393,014,816",N/A,N/A,N/A,N/A,N/A,N/A
-370,Superman Returns,"$391,081,192",60%,74%,,Bryan Singer,Warner Bros. Pictures,"Jun 28, 2006, "
-371,Gone with the Wind,"$390,516,513",92%,90%,,Victor Fleming,Metro-Goldwyn-Mayer,"Dec 15, 1939, "
-372,Robin Hood: Prince of Thieves,"$390,500,000",72%,51%,,Kevin Reynolds,Warner Bros. Pictures,"Jun 14, 1991, "
-373,Black Adam,"$390,455,088",88%,39%,,Jaume Collet-Serra,Warner Bros. Pictures,"Oct 21, 2022, "
-374,The Wolf of Wall Street,"$389,816,136",,63%,,Rowland V. Lee,Warner Bros. Pictures,"Oct 21, 2022, "
-375,1917,"$389,140,440",N/A,N/A,N/A,N/A,N/A,N/A
-376,Back to the Future,"$388,386,822",95%,93%,,Robert Zemeckis,Universal Pictures,"Jul 3, 1985, Original"
-377,Grease,"$387,472,317",87%,66%,,Randal Kleiser,Paramount Pictures,"Jul 7, 1978, "
-378,Star Trek,"$386,839,614",91%,94%,,J.J. Abrams,Paramount Pictures,"May 7, 2009, "
-379,Ice Age,"$386,116,343",82%,77%,,Chris Wedge,20th Century Fox,"Mar 15, 2002, "
-380,Home,"$385,997,896",,,,Efrain Flores,20th Century Fox,"Mar 15, 2002, "
-381,Happy Feet,"$385,000,315",70%,76%,,George Miller,Warner Bros. Pictures,"Nov 17, 2006, "
-382,Independence Day: Resurgence,"$384,169,424",30%,29%,,Roland Emmerich,20th Century Fox,"Jun 24, 2016, "
-383,Indiana Jones and the Dial of Destiny,"$383,963,057",88%,70%,,James Mangold,Walt Disney Pictures,"Jun 30, 2023, "
-384,Spirited Away (千と千尋の神隠し),"$383,947,619",N/A,N/A,N/A,N/A,N/A,N/A
-385,Slumdog Millionaire,"$383,825,427",90%,91%,,Danny Boyle,Fox,"Jan 23, 2009, "
-386,Cars 3,"$383,541,369",68%,69%,,Brian Fee,Walt Disney,"Jun 16, 2017, "
-387,Godzilla: King of the Monsters,"$383,299,914",73%,84%,,"Terry Morse, 
-Ishirô Honda",Walt Disney,"Apr 27, 1956, Limited"
-388,Live Free or Die Hard,"$382,288,147",86%,82%,,Len Wiseman,20th Century Fox,"Jun 27, 2007, "
-389,Monsters vs. Aliens,"$381,687,380",N/A,N/A,N/A,N/A,N/A,N/A
-390,Fifty Shades Darker,"$381,367,046",48%,11%,,James Foley,Universal Pictures,"Feb 10, 2017, "
-391,Black Widow,"$379,751,131",,,,Christian Lee,Universal Pictures,"Feb 10, 2017, "
-392,Hotel Transylvania,"$378,119,469",72%,44%,,Genndy Tartakovsky,Sony Pictures Entertainment,"Sep 28, 2012, "
-393,Taken 2,"$377,807,404",52%,22%,,Olivier Megaton,20th Century Fox,"Oct 5, 2012, "
-394,Once Upon a Time…in Hollywood,"$377,426,903",N/A,N/A,N/A,N/A,N/A,N/A
-395,Godzilla,"$376,000,000",28%,20%,,Roland Emmerich,Columbia Pictures,"May 19, 1998, "
-396,G.I. Joe: Retaliation,"$375,740,705",N/A,N/A,N/A,N/A,N/A,N/A
-397,Spider-Man: Into The Spider-Verse 3D,"$375,464,627",N/A,N/A,N/A,N/A,N/A,N/A
-398,My Big Fat Greek Wedding,"$374,890,034",73%,76%,,Joel Zwick,IFC Films,"Apr 19, 2002, Original"
-399,X-Men Origins: Wolverine,"$374,825,760",N/A,N/A,N/A,N/A,N/A,N/A
-400,Successor (抓娃娃),"$374,561,698",N/A,N/A,N/A,N/A,N/A,N/A
-401,What Women Want,"$374,105,123",54%,54%,,Nancy Meyers,Paramount Pictures,"Dec 15, 2000, "
-402,The Adventures of Tintin,"$373,993,951",74%,75%,,Steven Spielberg,Paramount Pictures,"Dec 21, 2011, "
-403,Fifty Shades Freed,"$371,985,018",38%,11%,,James Foley,Universal Pictures,"Feb 9, 2018, "
-404,Shark Tale,"$371,741,123",48%,35%,,"Rob Letterman, 
-Bibo Bergeron, 
-Vicky Jenson",DreamWorks SKG,"Oct 1, 2004, "
-405,Captain America: The First Avenger,"$370,569,776",75%,80%,,Joe Johnston,Paramount Pictures,"Jul 22, 2011, "
-406,There's Something About Mary,"$369,884,651",N/A,N/A,N/A,N/A,N/A,N/A
-407,Creation of the Gods I: Kindom of Sto…,"$369,081,777",N/A,N/A,N/A,N/A,N/A,N/A
-408,Mad Max: Fury Road,"$368,297,521",86%,97%,,George Miller,Warner Bros. Pictures,"May 15, 2015, "
-409,Raiders of the Lost Ark,"$367,451,914",96%,93%,,Steven Spielberg,Paramount Pictures,"Jun 12, 1981, "
-410,The Golden Compass,"$367,262,558",51%,42%,,Chris Weitz,New Line Cinema,"Dec 7, 2007, "
-411,Gone Girl,"$367,128,535",87%,88%,,David Fincher,20th Century Fox,"Oct 3, 2014, "
-412,Edge of Tomorrow,"$367,028,980",90%,91%,,Doug Liman,Warner Bros. Pictures,"Jun 6, 2014, "
-413,Xi Hong Shi Shou Fu,"$366,961,920",N/A,N/A,N/A,N/A,N/A,N/A
-414,Penguins of Madagascar,"$366,942,531",63%,74%,,"Eric Darnell, 
-Simon J. Smith",20th Century Fox,"Nov 26, 2014, "
-415,Hitch,"$366,784,257",62%,69%,,Andy Tennant,Sony Pictures Entertainment,"Feb 11, 2005, "
-416,Die Hard: With a Vengeance,"$366,101,666",83%,59%,,John McTiernan,"Fox, 
-20th Century Fox","May 19, 1995, Original"
-417,Jurassic Park III,"$365,900,000",37%,49%,,Joe Johnston,Universal Pictures,"Jul 18, 2001, "
-418,Terminator Salvation,"$365,491,792",53%,33%,,McG,Warner Bros.,"May 21, 2009, "
-419,True Lies,"$365,300,000",76%,70%,,James Cameron,"Argentina Video Home, 
-20th Century Fox","Jul 15, 1994, "
-420,Toy Story,"$365,270,951",92%,100%,,John Lasseter,"Buena Vista Pictures, 
-Warner Home Vídeo","Nov 22, 1995, Original"
-421,Notting Hill,"$363,718,196",79%,84%,,Roger Michell,"MCA/Universal Pictures [us], 
-Polygram","May 28, 1999, "
-422,Shazam!,"$363,563,907",N/A,N/A,N/A,N/A,N/A,N/A
-423,A Bug’s Life,"$363,095,319",N/A,N/A,N/A,N/A,N/A,N/A
-424,Ocean's Twelve,"$362,989,076",N/A,N/A,N/A,N/A,N/A,N/A
-425,The Nun,"$362,900,037",20%,,,Luis de la Madrid,N/A,N/A
-426,Alvin and the Chipmunks,"$362,605,033",57%,,,Tim Hill,20th Century Fox,"Dec 14, 2007, "
-427,Planet of the Apes,"$362,211,740",N/A,N/A,N/A,N/A,N/A,N/A
-428,The Hangover 3,"$362,000,072",N/A,N/A,N/A,N/A,N/A,N/A
-429,The World is Not Enough,"$361,730,660",N/A,N/A,N/A,N/A,N/A,N/A
-430,Zhuo yao ji 2,"$361,683,815",N/A,N/A,N/A,N/A,N/A,N/A
-431,Tenet,"$359,518,466",76%,69%,,Christopher Nolan,Warner Bros. Pictures,"Sep 3, 2020, "
-432,Fast & Furious,"$359,347,833",N/A,N/A,N/A,N/A,N/A,N/A
-433,Home Alone 2: Lost in New York,"$358,994,850",62%,35%,,Chris Columbus,20th Century Fox,"Nov 20, 1992, "
-434,Kimi no na wa,"$358,954,042",N/A,N/A,N/A,N/A,N/A,N/A
-435,Minority Report,"$358,824,714",80%,89%,,Steven Spielberg,20th Century Fox,"Jun 21, 2002, "
-436,The Flintstones,"$358,500,000",25%,23%,,Brian Levant,"Argentina Video Home, 
-Universal Pictures","May 27, 1994, "
-437,Peter Rabbit,"$358,117,307",56%,64%,,Will Gluck,Sony Pictures Entertainment,"Feb 9, 2018, "
-438,Top Gun,"$357,463,748",83%,58%,,Tony Scott,Paramount Pictures,"May 16, 1986, Original"
-439,Batman Begins,"$356,770,593",94%,85%,,Christopher Nolan,Warner Bros. Pictures,"Jun 15, 2005, "
-440,Goldeneye,"$356,429,933",83%,80%,,Martin Campbell,United Artists,"Nov 17, 1995, "
-441,American Beauty,"$356,258,047",93%,87%,,Sam Mendes,DreamWorks SKG,"Oct 1, 1999, "
-442,Dinosaur,"$356,148,063",,,,"Eric Leighton, 
-Ralph Zondag",DreamWorks SKG,"Oct 1, 1999, "
-443,Catch Me if You Can,"$355,612,291",89%,96%,,Steven Spielberg,DreamWorks SKG,"Dec 25, 2002, "
-444,X-Men: First Class,"$355,408,305",N/A,N/A,N/A,N/A,N/A,N/A
-445,Night at the Museum: Secret of the Tomb,"$353,756,621",57%,48%,,Shawn Levy,20th Century Fox,"Dec 19, 2014, "
-446,The Fugitive,"$353,715,317",,,,D.W. Griffith,20th Century Fox,"Dec 19, 2014, "
-447,The Great Gatsby,"$353,497,733",,52%,,Herbert Brenon,20th Century Fox,"Dec 19, 2014, "
-448,Dumbo,"$353,166,307",70%,95%,,Ben Sharpsteen,RKO Radio Pictures,"Oct 23, 1941, Original"
-449,Noah,"$352,831,065",41%,75%,,Darren Aronofsky,Paramount Pictures,"Mar 28, 2014, "
-450,Basic Instinct,"$352,699,997",64%,55%,,Paul Verhoeven,"Live Entertainment, 
-Live Video, 
-Pioneer Entertainment, 
-Columbia Tristar","Mar 20, 1992, Original"
-451,The Angry Birds Movie,"$352,288,341",47%,44%,,"Clay Kaytis, 
-Fergal Reilly",Sony Pictures Entertainment,"May 20, 2016, "
-452,The Karate Kid,"$351,774,938",N/A,N/A,N/A,N/A,N/A,N/A
-453,Murder on the Orient Express,"$351,767,147",78%,90%,,Sidney Lumet,Paramount Pictures,"Nov 24, 1974, Original"
-454,The Mask,"$351,620,129",,67%,,Julian Roffman,Paramount Pictures,"Nov 24, 1974, Original"
-455,Who Framed Roger Rabbit?,"$351,500,000",85%,96%,,Robert Zemeckis,Touchstone Pictures,"Jun 21, 1988, "
-456,Dr. Seuss’ The Lorax,"$351,097,803",N/A,N/A,N/A,N/A,N/A,N/A
-457,Hannibal,"$350,100,280",,,,Edward Bazalgette,N/A,N/A
-458,Deep Impact,"$349,464,664",43%,45%,,Mimi Leder,Paramount Pictures,"May 8, 1998, "
-459,Alvin and the Chipmunks: Chipwrecked,"$349,088,523",51%,10%,,Mike Mitchell,20th Century Fox,"Dec 16, 2011, "
-460,The Legend of Tarzan,"$348,902,025",58%,35%,,David Yates,Warner Bros. Pictures,"Jul 1, 2016, "
-461,"I, Robot","$348,629,585",N/A,N/A,N/A,N/A,N/A,N/A
-462,The Smurfs 2,"$348,547,523",56%,14%,,Raja Gosnell,Sony Pictures Entertainment,"Jul 31, 2013, "
-463,The Maze Runner,"$348,319,861",68%,65%,,Wes Ball,20th Century Fox,"Sep 19, 2014, "
-464,Rush Hour 2,"$347,425,832",74%,50%,,Brett Ratner,New Line Cinema,"Aug 3, 2001, "
-465,Pocahontas,"$347,100,000",,,,"Mike Gabriel, 
-Eric Goldberg",New Line Cinema,"Aug 3, 2001, "
-466,How the Grinch Stole Christmas,"$347,036,128",58%,49%,,Ron Howard,Universal Pictures,"Nov 17, 2000, "
-467,Mary Poppins Returns,"$345,606,500",64%,79%,,Rob Marshall,Walt Disney,"Dec 19, 2018, "
-468,xXx: Return of Xander Cage,"$345,033,359",37%,45%,,D.J. Caruso,Paramount Pictures,"Jan 20, 2017, "
-469,The Hunger Games: The Ballad of Songb…,"$344,519,495",N/A,N/A,N/A,N/A,N/A,N/A
-470,Over the Hedge,"$343,397,247",71%,75%,,"Tim Johnson, 
-Karey Kirkpatrick",DreamWorks SKG,"May 19, 2006, "
-471,Trolls,"$342,831,709",67%,76%,,"Mike Mitchell, 
-Walt Dohrn",20th Century Fox,"Nov 4, 2016, "
-472,Now You See Me,"$342,769,200",70%,50%,,Louis Leterrier,Lionsgate Films,"May 31, 2013, "
-473,Wanted,"$342,416,460",,,,Jordon Foss,Lionsgate Films,"Apr 20, 2015, Limited"
-474,Zhuo yao ji,"$340,969,819",N/A,N/A,N/A,N/A,N/A,N/A
-475,Close Encounters of the Third Kind,"$340,800,479",85%,90%,,Steven Spielberg,Columbia Pictures,"Nov 16, 1977, "
-476,Enchanted,"$340,384,141",80%,93%,,Kevin Lima,Buena Vista,"Nov 21, 2007, "
-477,Tomorrow Never Dies,"$339,504,276",53%,57%,,Roger Spottiswoode,United Artists,"Dec 19, 1997, "
-478,Article 20 (第二十条),"$337,554,287",N/A,N/A,N/A,N/A,N/A,N/A
-479,Batman Forever,"$336,529,144",32%,41%,,Joel Schumacher,"Warner Bros., 
-Warner Home Vídeo","Jun 16, 1995, Original"
-480,Prince of Persia: Sands of Time,"$336,359,676",58%,36%,,Mike Newell,Walt Disney,"May 28, 2010, "
-481,The Rock,"$336,069,511",,,,Pia Justine Cruz,Walt Disney,"May 28, 2010, "
-482,Apollo 13,"$335,802,271",87%,96%,,Ron Howard,Universal Pictures,"Jun 30, 1995, "
-483,Star Trek Beyond,"$335,673,708",80%,86%,,Justin Lin,Paramount Pictures,"Jul 22, 2016, "
-484,A Quiet Place,"$334,876,670",83%,96%,,John Krasinski,Paramount Pictures,"Apr 6, 2018, "
-485,Never Say Die,"$334,536,622",,,,Geoff Murphy,Paramount Pictures,"Apr 6, 2018, "
-486,The Great Wall,"$334,486,852",,,,Shigeo Tanaka,Paramount Pictures,"Apr 6, 2018, "
-487,The Good Dinosaur,"$333,771,037",64%,75%,,Peter Sohn,Walt Disney,"Nov 25, 2015, "
-488,Fantastic Four,"$333,132,750",45%,28%,,Tim Story,20th Century Fox,"Jul 8, 2005, "
-489,Indiana Jones and the Temple of Doom,"$333,080,271",82%,77%,,Steven Spielberg,Paramount Pictures,"May 23, 1984, "
-490,Back to the Future Part II,"$331,971,868",N/A,N/A,N/A,N/A,N/A,N/A
-491,22 Jump Street,"$331,333,876",77%,84%,,"Phil Lord, 
-Christopher Miller",Sony Pictures Entertainment,"Jun 13, 2014, "
-492,National Treasure,"$331,323,410",76%,46%,,Jon Turteltaub,Buena Vista Pictures,"Nov 19, 2004, "
-493,Black Swan,"$331,266,710",73%,83%,,Henry King,20th Century Fox,"Dec 4, 1942, Original"
-494,300: Rise of an Empire,"$330,780,051",51%,45%,,Noam Murro,Warner Bros. Pictures,"Mar 7, 2014, "
-495,Meet the Parents,"$330,425,040",79%,85%,,Jay Roach,"DreamWorks SKG, 
-Universal Pictures","Oct 6, 2000, "
-496,The Curious Case of Benjamin Button,"$329,631,958",N/A,N/A,N/A,N/A,N/A,N/A
-497,The Perfect Storm,"$328,711,434",63%,46%,,Wolfgang Petersen,"Warner Bros. Pictures, 
-Warner Home Vídeo","Jun 30, 2000, "
-498,Now You See Me 2,"$328,325,007",53%,33%,,Jon M. Chu,Lionsgate Films,"Jun 10, 2016, "
-499,Crocodile Dundee,"$328,203,506",59%,89%,,Peter Faiman,Paramount Pictures,"Sep 26, 1986, "
-500,Se7en,"$328,125,643",N/A,N/A,N/A,N/A,N/A,N/A
+Rank,Name,Gross Income,Audience Score,Critics Score,Director,Distributor,Release date
+1,Avatar,"$2,923,706,026",82%,81%,James Cameron,20th Century Fox,"Dec 18, 2009, "
+2,Avengers: Endgame,"$2,748,242,781",90%,94%,"Anthony Russo, Joe Russo",Walt Disney,"Apr 26, 2019, "
+3,Avatar: The Way of Water,"$2,317,514,386",92%,76%,James Cameron,20th Century Studios,"Dec 16, 2022, "
+4,Titanic,"$2,223,048,786",69%,88%,James Cameron,"20th Century Fox,, Paramount Pictures","Dec 19, 1997, "
+5,Star Wars Ep. VII: The Force Awakens,"$2,058,880,845",N/A,N/A,N/A,N/A,N/A
+6,Avengers: Infinity War,"$2,048,359,754",92%,85%,"Anthony Russo, Joe Russo",Walt Disney,"Apr 27, 2018, "
+7,Spider-Man: No Way Home,"$1,908,532,719",98%,93%,Jon Watts,Columbia Pictures,"Dec 17, 2021, "
+8,Jurassic World,"$1,669,963,641",78%,71%,Colin Trevorrow,Universal Pictures,"Jun 12, 2015, "
+9,The Lion King,"$1,646,106,779",93%,92%,"Roger Allers, Rob Minkoff",Walt Disney Pictures,"Jun 24, 1994, "
+10,Inside Out 2,"$1,559,255,587",N/A,N/A,N/A,N/A,N/A
+11,The Avengers,"$1,515,100,211",N/A,N/A,N/A,N/A,N/A
+12,Furious 7,"$1,511,986,364",N/A,N/A,N/A,N/A,N/A
+13,Top Gun: Maverick,"$1,464,642,326",99%,96%,Joseph Kosinski,Paramount Pictures,"May 27, 2022, "
+14,Frozen II,"$1,451,653,316",92%,77%,"Chris Buck, Jennifer Lee",Walt Disney,"Nov 22, 2019, "
+15,Barbie,"$1,445,638,421",83%,88%,Greta Gerwig,Warner Bros. Pictures,"Jul 21, 2023, "
+16,Avengers: Age of Ultron,"$1,395,316,979",82%,76%,Joss Whedon,Walt Disney,"May 1, 2015, "
+17,The Super Mario Bros. Movie,"$1,361,553,421",N/A,N/A,N/A,N/A,N/A
+18,Black Panther,"$1,334,157,082",50%,,Ian Merrick,N/A,N/A
+19,Star Wars Ep. VIII: The Last Jedi,"$1,325,604,756",N/A,N/A,N/A,N/A,N/A
+20,Harry Potter and the Deathly Hallows:…,"$1,312,201,690",N/A,N/A,N/A,N/A,N/A
+21,Jurassic World: Fallen Kingdom,"$1,308,323,302",48%,46%,J. A. Bayona,Universal Pictures,"Jun 22, 2018, "
+22,Frozen,"$1,273,378,817",62%,56%,Wang Xiaoshuai,Universal Pictures,"Jun 22, 2018, "
+23,Beauty and the Beast,"$1,268,697,483",,,Diane Eskenazi,Universal Pictures,"Jun 22, 2018, "
+24,Incredibles 2,"$1,242,805,359",N/A,N/A,N/A,N/A,N/A
+25,The Fate of the Furious,"$1,235,534,014",72%,67%,F. Gary Gray,Universal Pictures,"Apr 14, 2017, "
+26,Iron Man 3,"$1,215,392,272",N/A,N/A,N/A,N/A,N/A
+27,Minions,"$1,157,271,759",49%,56%,"Pierre Coffin, Kyle Balda",Universal Pictures,"Jul 10, 2015, "
+28,Captain America: Civil War,"$1,151,899,586",89%,90%,"Anthony Russo, Joe Russo",Walt Disney Pictures,"May 6, 2016, "
+29,Spider-Man: Far From Home,"$1,132,937,929",95%,91%,Jon Watts,"Columbia Pictures,, Sony Pictures Entertainment","Jul 2, 2019, "
+30,Aquaman,"$1,131,849,702",72%,65%,James Wan,Warner Bros. Pictures,"Dec 21, 2018, "
+31,Captain Marvel,"$1,129,576,094",45%,79%,"Anna Boden, Ryan Fleck",Walt Disney,"Mar 8, 2019, "
+32,The Lord of the Rings: The Return of …,"$1,123,837,908",N/A,N/A,N/A,N/A,N/A
+33,Transformers: Dark of the Moon,"$1,123,794,079",55%,35%,Michael Bay,Paramount Pictures,"Jun 29, 2011, "
+34,Skyfall,"$1,110,526,981",86%,92%,Sam Mendes,Sony Pictures Entertainment,"Nov 9, 2012, "
+35,Transformers: Age of Extinction,"$1,104,054,072",50%,18%,Michael Bay,Paramount Pictures,"Jun 27, 2014, "
+36,The Dark Knight Rises,"$1,082,228,107",90%,87%,Christopher Nolan,Warner Bros. Pictures,"Jul 20, 2012, "
+37,Toy Story 4,"$1,072,817,964",N/A,N/A,N/A,N/A,N/A
+38,Star Wars: The Rise of Skywalker,"$1,070,655,325",86%,51%,J.J. Abrams,Walt Disney,"Dec 20, 2019, "
+39,Toy Story 3,"$1,068,879,522",N/A,N/A,N/A,N/A,N/A
+40,Pirates of the Caribbean: Dead Man’s …,"$1,066,179,725",N/A,N/A,N/A,N/A,N/A
+41,Joker,"$1,064,085,246",33%,,Yuri Kuzmenko,N/A,N/A
+42,Jurassic Park,"$1,058,454,230",91%,92%,Steven Spielberg,Universal Pictures,"Jun 11, 1993, "
+43,Rogue One: A Star Wars Story,"$1,055,083,596",87%,84%,Gareth Edwards,Walt Disney,"Dec 16, 2016, "
+44,Aladdin,"$1,046,587,513",94%,57%,Guy Ritchie,Walt Disney,"May 24, 2019, "
+45,Pirates of the Caribbean: On Stranger…,"$1,045,713,802",N/A,N/A,N/A,N/A,N/A
+46,Star Wars Ep. I: The Phantom Menace,"$1,040,074,671",N/A,N/A,N/A,N/A,N/A
+47,Despicable Me 3,"$1,032,809,657",N/A,N/A,N/A,N/A,N/A
+48,Alice in Wonderland,"$1,025,491,110",,,"Robson Lima, Everton Rodrigues",N/A,N/A
+49,Finding Dory,"$1,025,006,125",84%,94%,Andrew Stanton,Walt Disney,"Jun 17, 2016, "
+50,The Hobbit: An Unexpected Journey,"$1,014,938,545",83%,64%,Peter Jackson,Warner Bros. Pictures,"Dec 14, 2012, "
+51,The Dark Knight,"$1,007,695,772",94%,94%,Christopher Nolan,Warner Bros. Pictures,"Jul 18, 2008, "
+52,Jurassic World: Dominion,"$1,004,004,592",77%,29%,Colin Trevorrow,Universal Pictures,"Jun 10, 2022, "
+53,Zootopia,"$1,002,462,578",92%,98%,"Byron Howard, Rich Moore",Walt Disney,"Mar 4, 2016, "
+54,The Lion King,"$988,389,726",93%,92%,"Roger Allers, Rob Minkoff",Walt Disney Pictures,"Jun 24, 1994, "
+55,Oppenheimer,"$976,968,205",N/A,N/A,N/A,N/A,N/A
+56,Despicable Me 2,"$975,216,835",N/A,N/A,N/A,N/A,N/A
+57,Harry Potter and the Sorcerer’s Stone,"$963,637,834",N/A,N/A,N/A,N/A,N/A
+58,Jumanji: Welcome to the Jungle,"$961,632,807",87%,76%,Jake Kasdan,Sony Pictures Entertainment,"Dec 20, 2017, "
+59,Pirates of the Caribbean: At World’s …,"$960,996,492",N/A,N/A,N/A,N/A,N/A
+60,The Hobbit: The Desolation of Smaug,"$959,358,436",85%,75%,Peter Jackson,Warner Bros. Pictures,"Dec 13, 2013, "
+61,Doctor Strange in the Multiverse of M…,"$952,224,986",N/A,N/A,N/A,N/A,N/A
+62,The Jungle Book,"$951,806,722",75%,,Wolfgang Reitherman,N/A,N/A
+63,Harry Potter and the Deathly Hallows:…,"$944,062,255",N/A,N/A,N/A,N/A,N/A
+64,The Hobbit: The Battle of the Five Ar…,"$940,323,039",N/A,N/A,N/A,N/A,N/A
+65,Minions: The Rise of Gru,"$937,427,564",89%,70%,Kyle Balda,Universal Pictures,"Jul 1, 2022, "
+66,Harry Potter and the Order of the Pho…,"$937,034,773",N/A,N/A,N/A,N/A,N/A
+67,Finding Nemo,"$936,094,852",86%,99%,Andrew Stanton,Walt Disney Pictures,"May 30, 2003, "
+68,Shrek 2,"$935,454,538",N/A,N/A,N/A,N/A,N/A
+69,Harry Potter and the Half-Blood Prince,"$926,069,091",78%,84%,David Yates,Warner Bros.,"Jul 15, 2009, "
+70,Deadpool & Wolverine,"$924,656,382",N/A,N/A,N/A,N/A,N/A
+71,The Lord of the Rings: The Two Towers,"$921,715,176",95%,95%,Peter Jackson,New Line Cinema,"Dec 5, 2002, "
+72,Chang jin hu,"$909,596,236",N/A,N/A,N/A,N/A,N/A
+73,Spider-Man 3,"$895,937,268",N/A,N/A,N/A,N/A,N/A
+74,The Lord of the Rings: The Fellowship…,"$894,316,394",N/A,N/A,N/A,N/A,N/A
+75,Ice Age: Dawn of the Dinosaurs,"$886,686,817",63%,46%,Carlos Saldanha,20th Century Fox,"Jul 1, 2009, "
+76,The Secret Life of Pets,"$886,013,000",62%,70%,Chris Renaud,Universal Pictures,"Jul 8, 2016, "
+77,Harry Potter and the Goblet of Fire,"$885,222,986",74%,88%,Mike Newell,Warner Bros. Pictures,"Nov 18, 2005, "
+78,Ice Age: Continental Drift,"$879,765,137",61%,37%,"Steve Martino, Mike Thurmeier",20th Century Fox,"Jul 13, 2012, "
+79,Bohemian Rhapsody,"$879,088,897",85%,60%,Bryan Singer,20th Century Fox,"Nov 2, 2018, "
+80,Spectre,"$879,077,344",44%,,Scott Levy,20th Century Fox,"Nov 2, 2018, "
+81,Spider-Man: Homecoming,"$878,651,127",87%,92%,Jon Watts,Sony Pictures Entertainment,"Jul 7, 2017, "
+82,Harry Potter and the Chamber of Secrets,"$874,954,228",80%,82%,Chris Columbus,Warner Bros. Pictures,"Nov 15, 2002, "
+83,Batman v Superman: Dawn of Justice,"$872,395,091",63%,29%,Zack Snyder,Warner Bros. Pictures,"Mar 25, 2016, "
+84,Zhan Lang 2,"$870,325,439",N/A,N/A,N/A,N/A,N/A
+85,Guardians of the Galaxy Vol 2,"$869,087,963",N/A,N/A,N/A,N/A,N/A
+86,The Hunger Games: Catching Fire,"$864,808,014",89%,90%,Francis Lawrence,Lionsgate Films,"Nov 22, 2013, "
+87,Venom,"$856,081,053",,,Michael McAdam,Lionsgate Films,"Nov 22, 2013, "
+88,Black Panther: Wakanda Forever,"$853,985,546",94%,84%,Ryan Coogler,Walt Disney Pictures,"Nov 11, 2022, "
+89,Thor: Ragnarok,"$850,482,778",87%,93%,Taika Waititi,Walt Disney,"Nov 3, 2017, "
+90,Inside Out,"$850,309,035",37%,,David Ogden,Walt Disney,"Nov 3, 2017, "
+91,Star Wars Ep. III: Revenge of the Sith,"$848,998,877",N/A,N/A,N/A,N/A,N/A
+92,Guardians of the Galaxy Vol 3,"$845,468,744",N/A,N/A,N/A,N/A,N/A
+93,"Hi, Mom (你好)","$841,674,419",N/A,N/A,N/A,N/A,N/A
+94,Transformers: Revenge of the Fallen,"$836,519,699",57%,20%,Michael Bay,Paramount Pictures,"Jun 24, 2009, "
+95,"The Twilight Saga: Breaking Dawn, Part 2","$829,724,737",N/A,N/A,N/A,N/A,N/A
+96,Inception,"$825,786,894",91%,87%,Christopher Nolan,Warner Bros. Pictures,"Jul 16, 2010, "
+97,Spider-Man,"$822,652,858",67%,90%,Sam Raimi,Columbia Pictures,"May 3, 2002, "
+98,Wonder Woman,"$817,691,766",78%,85%,Lauren Montgomery,Columbia Pictures,"May 3, 2002, "
+99,Independence Day,"$817,400,878",,,Bobby Roth,Columbia Pictures,"Nov 10, 1976, Original"
+100,Fantastic Beasts and Where to Find Them,"$811,724,385",79%,74%,David Yates,Warner Bros. Pictures,"Nov 18, 2016, "
+101,Shrek the Third,"$807,330,936",52%,42%,Chris Miller,Paramount Pictures,"May 18, 2007, "
+102,E.T. the Extra-Terrestrial,"$797,307,407",N/A,N/A,N/A,N/A,N/A
+103,Coco,"$796,401,721",15%,,Gad Elmaleh,N/A,N/A
+104,Spider-Man 2,"$795,888,127",N/A,N/A,N/A,N/A,N/A
+105,Jumanji: The Next Level,"$795,356,912",87%,72%,Jake Kasdan,"Columbia Pictures,, Sony Pictures Entertainment","Dec 13, 2019, "
+106,Pirates of the Caribbean: Dead Men Te…,"$794,861,794",N/A,N/A,N/A,N/A,N/A
+107,Fast and Furious 6,"$789,300,444",N/A,N/A,N/A,N/A,N/A
+108,Indiana Jones and the Kingdom of the …,"$786,635,413",N/A,N/A,N/A,N/A,N/A
+109,Mission: Impossible—Fallout,"$786,626,183",88%,97%,Christopher McQuarrie,Paramount Pictures,"Jul 27, 2018, "
+110,Deadpool 2,"$786,362,370",N/A,N/A,N/A,N/A,N/A
+111,Harry Potter and the Prisoner of Azkaban,"$783,221,274",86%,90%,Alfonso Cuarón,Warner Bros. Pictures,"May 31, 2004, Original"
+112,Deadpool,"$781,947,691",90%,85%,Tim Miller,20th Century Fox,"Feb 12, 2016, "
+113,Star Wars Ep. IV: A New Hope,"$775,398,007",N/A,N/A,N/A,N/A,N/A
+114,Guardians of the Galaxy,"$770,882,395",92%,92%,James Gunn,Walt Disney Pictures,"Aug 1, 2014, "
+115,The Da Vinci Code,"$767,820,459",N/A,N/A,N/A,N/A,N/A
+116,The Hunger Games: Mockingjay - Part 1,"$766,575,131",N/A,N/A,N/A,N/A,N/A
+117,The Batman,"$765,950,479",87%,85%,Matt Reeves,Warner Bros. Pictures,"Mar 4, 2022, "
+118,Despicable Me 4,"$762,414,538",N/A,N/A,N/A,N/A,N/A
+119,Thor: Love and Thunder,"$760,928,081",76%,63%,Taika Waititi,Walt Disney Pictures,"Jul 8, 2022, "
+120,Fast & Furious Presents: Hobbs & Shaw,"$760,732,926",N/A,N/A,N/A,N/A,N/A
+121,No Time to Die,"$758,929,771",,,Helmut Ashley,N/A,N/A
+122,The Amazing Spider-Man,"$758,576,824",77%,71%,Marc Webb,Sony Pictures Entertainment,"Jul 3, 2012, "
+123,Maleficent,"$758,536,735",70%,54%,Robert Stromberg,Walt Disney,"May 30, 2014, "
+124,2012,"$757,677,748",N/A,N/A,N/A,N/A,N/A
+125,Shrek Forever After,"$756,244,673",54%,57%,Mike Mitchell,"DreamWorks SKG,, Paramount Pictures","May 21, 2010, "
+126,X-Men: Days of Future Past,"$747,862,775",91%,90%,Bryan Singer,20th Century Fox,"May 23, 2014, "
+127,Madagascar 3: Europe's Most Wanted,"$746,921,271",N/A,N/A,N/A,N/A,N/A
+128,Suicide Squad,"$745,744,980",50%,,Brian Desmond Hurst,N/A,N/A
+129,Monsters University,"$743,455,810",81%,80%,Dan Scanlon,Walt Disney,"Jun 21, 2013, "
+130,Ne Zha (哪吒之魔童降世),"$742,718,496",N/A,N/A,N/A,N/A,N/A
+131,The Matrix Reloaded,"$738,576,929",72%,73%,"Lilly Wachowski, Lana Wachowski",Warner Bros. Pictures,"May 15, 2003, "
+132,Up,"$731,463,377",90%,98%,"Pete Docter, Bob Peterson","Pixar Animation Studios,, Walt Disney","May 29, 2009, "
+133,"The Chronicles of Narnia: The Lion, t…","$720,539,572",N/A,N/A,N/A,N/A,N/A
+134,F9: The Fast Saga,"$719,360,068",N/A,N/A,N/A,N/A,N/A
+135,Fast X,"$714,567,285",84%,56%,Louis Leterrier,Universal Pictures,"May 19, 2023, "
+136,Captain America: The Winter Soldier,"$714,401,889",92%,90%,"Anthony Russo, Joe Russo",Walt Disney Pictures,"Apr 4, 2014, "
+137,Dawn of the Planet of the Apes,"$710,644,566",88%,91%,Matt Reeves,20th Century Fox,"Jul 11, 2014, "
+138,Dune: Part Two,"$710,020,114",95%,92%,Denis Villeneuve,Warner Bros. Pictures,"Mar 1, 2024, "
+139,The Amazing Spider-Man 2,"$709,672,746",N/A,N/A,N/A,N/A,N/A
+140,Transformers,"$708,272,592",N/A,N/A,N/A,N/A,N/A
+141,The Twilight Saga: Eclipse,"$706,102,828",60%,46%,David Slade,Summit Entertainment,"Jun 30, 2010, "
+142,It,"$701,012,746",,,Sergei Ovcharov,Summit Entertainment,"Jun 30, 2010, "
+143,Mission: Impossible—Ghost Protocol,"$694,713,230",76%,93%,Brad Bird,Paramount Pictures,"Dec 21, 2011, "
+144,Mission: Impossible—Rogue Nation,"$688,858,992",87%,94%,Christopher McQuarrie,Paramount Pictures,"Jul 31, 2015, "
+145,The Twilight Saga: New Moon,"$687,557,727",61%,28%,Chris Weitz,Summit Entertainment,"Nov 20, 2009, "
+146,Moana,"$687,228,908",65%,87%,Robert J. Flaherty,Paramount Pictures,"Jan 7, 1926, Original"
+147,Gravity,"$684,657,731",29%,,Peter J. Eaton,Paramount Pictures,"Jan 7, 1926, Original"
+148,"The Twilight Saga: Breaking Dawn, Part 1","$684,436,752",N/A,N/A,N/A,N/A,N/A
+149,Spider-Man: Across the Spider-Verse,"$681,222,435",94%,95%,"Joaquim Dos Santos, Kemp Powers, Justin K. Thompson",Sony Pictures,"Jun 2, 2023, "
+150,Forrest Gump,"$679,835,137",95%,76%,Robert Zemeckis,Paramount Pictures,"Jul 6, 1994, "
+151,The Hunger Games,"$677,923,379",81%,84%,Gary Ross,Lionsgate Films,"Mar 23, 2012, "
+152,Doctor Strange,"$676,343,174",N/A,N/A,N/A,N/A,N/A
+153,The Sixth Sense,"$672,806,292",N/A,N/A,N/A,N/A,N/A
+154,Man of Steel,"$667,999,518",,,Ken Anderson,N/A,"Mar 25, 1967, Limited"
+155,Kung Fu Panda 2,"$664,837,547",N/A,N/A,N/A,N/A,N/A
+156,Star Wars Ep. II: Attack of the Clones,"$656,695,615",N/A,N/A,N/A,N/A,N/A
+157,Justice League,"$655,945,209",N/A,N/A,N/A,N/A,N/A
+158,Pirates of the Caribbean: The Curse o…,"$654,310,819",N/A,N/A,N/A,N/A,N/A
+159,Men in Black 3,"$654,213,485",N/A,N/A,N/A,N/A,N/A
+160,The Martian,"$653,609,107",91%,91%,Ridley Scott,20th Century Fox,"Oct 2, 2015, "
+161,The Wandering Earth (流浪地球),"$652,251,170",N/A,N/A,N/A,N/A,N/A
+162,Ice Age: The Meltdown,"$651,899,282",N/A,N/A,N/A,N/A,N/A
+163,Fantastic Beasts: The Crimes of Grind…,"$648,455,339",N/A,N/A,N/A,N/A,N/A
+164,Big Hero 6,"$647,263,005",N/A,N/A,N/A,N/A,N/A
+165,Interstellar,"$647,040,051",86%,73%,Christopher Nolan,Paramount Pictures,"Nov 7, 2014, "
+166,The Hunger Games: Mockingjay - Part 2,"$646,219,954",N/A,N/A,N/A,N/A,N/A
+167,Thor: The Dark World,"$644,602,516",75%,67%,Alan Taylor,Walt Disney,"Nov 8, 2013, "
+168,Full River Red (满江红),"$634,631,282",N/A,N/A,N/A,N/A,N/A
+169,Kung Fu Panda,"$631,910,531",83%,87%,"John Stevenson, Mark Osborne",DreamWorks SKG,"Jun 6, 2008, "
+170,The Incredibles,"$631,441,092",75%,97%,Brad Bird,Walt Disney Pictures,"Nov 5, 2004, "
+171,Sing,"$631,064,182",88%,43%,Richard Baskin,Walt Disney Pictures,"Mar 31, 1989, Limited"
+172,Fast Five,"$629,975,898",83%,78%,Justin Lin,Universal Pictures,"Apr 29, 2011, "
+173,Wonka,"$629,037,798",91%,82%,Paul King,Warner Bros. Pictures,"Dec 15, 2023, "
+174,Ratatouille,"$626,549,695",87%,96%,Brad Bird,Buena Vista,"Jun 29, 2007, "
+175,Tang Ren Jie Tan An 3,"$625,136,211",N/A,N/A,N/A,N/A,N/A
+176,Hancock,"$624,234,272",59%,42%,Peter Berg,Sony Pictures Entertainment,"Jul 2, 2008, "
+177,Ant-Man and the Wasp,"$623,144,660",79%,87%,Peyton Reed,Walt Disney,"Jul 6, 2018, "
+178,The Passion of the Christ,"$622,313,635",N/A,N/A,N/A,N/A,N/A
+179,Iron Man 2,"$621,156,389",N/A,N/A,N/A,N/A,N/A
+180,Life of Pi,"$619,310,368",84%,86%,Ang Lee,20th Century Fox,"Nov 21, 2012, "
+181,The Lost World: Jurassic Park,"$618,638,999",N/A,N/A,N/A,N/A,N/A
+182,How to Train Your Dragon 2,"$614,586,270",N/A,N/A,N/A,N/A,N/A
+183,Logan,"$614,202,315",N/A,N/A,N/A,N/A,N/A
+184,War of the Worlds,"$606,836,535",42%,76%,Steven Spielberg,Paramount Pictures,"Jun 29, 2005, "
+185,Chang Jin Hu Zhi Shui Men Qiao (长津湖之水…,"$602,986,104",N/A,N/A,N/A,N/A,N/A
+186,Transformers: The Last Knight,"$602,893,340",43%,16%,Michael Bay,Paramount Pictures,"Jun 21, 2017, "
+187,Madagascar: Escape 2 Africa,"$599,680,774",N/A,N/A,N/A,N/A,N/A
+188,Casino Royale,"$594,420,216",90%,94%,Martin Campbell,Sony Pictures Entertainment,"Nov 17, 2006, "
+189,Quantum of Solace,"$591,692,078",58%,64%,Marc Forster,Metro-Goldwyn-Mayer,"Nov 14, 2008, "
+190,Men in Black,"$587,790,539",80%,91%,Barry Sonnenfeld,Columbia Pictures,"Jul 4, 1997, "
+191,The Hangover Part II,"$586,764,305",52%,34%,Todd Phillips,Warner Bros. Pictures,"May 26, 2011, "
+192,I am Legend,"$585,532,684",68%,68%,Francis Lawrence,Warner Bros.,"Dec 14, 2007, "
+193,Iron Man,"$585,171,547",91%,94%,Jon Favreau,Paramount Pictures,"May 2, 2008, "
+194,Mamma Mia!,"$584,481,736",N/A,N/A,N/A,N/A,N/A
+195,Tangled,"$582,440,151",87%,89%,"Nathan Greno, Byron Howard",Walt Disney,"Nov 24, 2010, "
+196,Night at the Museum,"$579,446,407",67%,42%,Shawn Levy,20th Century Fox,"Dec 22, 2006, "
+197,Ready Player One,"$579,055,653",77%,72%,Steven Spielberg,Warner Bros. Pictures,"Mar 29, 2018, "
+198,The Croods,"$573,068,425",77%,72%,"Christopher Sanders, Kirk DeMicco",20th Century Fox,"Mar 22, 2013, "
+199,Fifty Shades of Grey,"$570,794,950",41%,25%,Sam Taylor-Johnson,Focus Features,"Feb 13, 2015, "
+200,The Little Mermaid,"$569,626,289",54%,,"Masakazu Higuchi, Chinami Namba",Focus Features,"Feb 13, 2015, "
+201,Godzilla x Kong: The New Empire,"$568,721,707",91%,54%,Adam Wingard,Warner Bros. Pictures,"Mar 29, 2024, "
+202,Mission: Impossible Dead Reckoning Pa…,"$566,644,143",N/A,N/A,N/A,N/A,N/A
+203,The Smurfs,"$563,749,323",43%,21%,Raja Gosnell,Sony Pictures,"Jul 29, 2011, "
+204,The Wandering Earth 2 (流浪地球2),"$562,688,972",N/A,N/A,N/A,N/A,N/A
+205,Kong: Skull Island,"$561,072,059",70%,75%,Jordan Vogt-Roberts,Warner Bros. Pictures,"Mar 10, 2017, "
+206,"Monsters, Inc.","$560,483,719",N/A,N/A,N/A,N/A,N/A
+207,Cars 2,"$560,155,383",N/A,N/A,N/A,N/A,N/A
+208,Madagascar,"$556,559,566",67%,55%,"Eric Darnell, Tom McGrath",DreamWorks SKG,"May 27, 2005, "
+209,Ted,"$556,016,627",,,Gary Ellenberg,DreamWorks SKG,"May 27, 2005, "
+210,The Day After Tomorrow,"$555,840,117",N/A,N/A,N/A,N/A,N/A
+211,Puss in Boots,"$554,987,477",,,Karthik Chandan,N/A,N/A
+212,Brave,"$554,606,532",75%,79%,"Mark Andrews, Brenda Chapman","Walt Disney,, Pixar Animation Studios","Jun 22, 2012, "
+213,Armageddon,"$554,600,000",73%,43%,Michael Bay,"Buena Vista Pictures,, Touchstone Pictures,, Criterion Collection,, Touchstone Home Video","Jul 1, 1998, Original"
+214,King Kong,"$550,517,357",50%,84%,Peter Jackson,Universal Pictures,"Dec 14, 2005, "
+215,Mission: Impossible 2,"$549,588,516",N/A,N/A,N/A,N/A,N/A
+216,Star Wars Ep. V: The Empire Strikes Back,"$549,001,086",N/A,N/A,N/A,N/A,N/A
+217,American Sniper,"$547,326,372",84%,72%,Clint Eastwood,Warner Bros. Pictures,"Jan 16, 2015, "
+218,Kung Fu Panda 4,"$545,985,797",N/A,N/A,N/A,N/A,N/A
+219,Despicable Me,"$544,707,293",83%,80%,"Chris Renaud, Pierre Coffin",Universal Pictures,"Jul 9, 2010, "
+220,Tang Ren Jie Tan An 2,"$544,068,574",N/A,N/A,N/A,N/A,N/A
+221,Hong Hai Xing Dong,"$543,391,535",N/A,N/A,N/A,N/A,N/A
+222,X-Men: Apocalypse,"$542,537,546",65%,47%,Bryan Singer,20th Century Fox,"May 27, 2016, "
+223,Cinderella,"$542,351,353",80%,98%,"Clyde Geronimi, Wilfred Jackson, Hamilton Luske","RKO Radio Pictures,, Buena Vista Pictures","Feb 15, 1950, Original"
+224,Sherlock Holmes: A Game of Shadows,"$535,663,443",77%,60%,Guy Ritchie,Warner Bros. Pictures,"Dec 16, 2011, "
+225,The Revenant,"$532,938,302",N/A,N/A,N/A,N/A,N/A
+226,No More Bets (孤注一掷),"$532,726,980",N/A,N/A,N/A,N/A,N/A
+227,WALL-E,"$532,508,025",90%,95%,Andrew Stanton,"Pixar Animation Studios,, Walt Disney","Jun 27, 2008, "
+228,World War Z,"$531,861,650",72%,67%,Marc Forster,Paramount Pictures,"Jun 21, 2013, "
+229,Ralph Breaks The Internet,"$529,290,830",64%,88%,"Phil Johnston, Rich Moore",Walt Disney,"Nov 21, 2018, "
+230,Godzilla,"$529,076,069",28%,20%,Roland Emmerich,Columbia Pictures,"May 19, 1998, "
+231,Hotel Transylvania 3: Summer Vacation,"$528,500,000",N/A,N/A,N/A,N/A,N/A
+232,The Boss Baby,"$527,909,949",51%,53%,Tom McGrath,20th Century Fox,"Mar 31, 2017, "
+233,The Meg,"$527,267,828",44%,47%,Jon Turteltaub,Warner Bros. Pictures,"Aug 10, 2018, "
+234,The Simpsons Movie,"$527,071,022",,,David Silverman,Warner Bros. Pictures,"Aug 10, 2018, "
+235,Mei Ren Yu,"$525,018,479",60%,95%,Stephen Chow,Sony Pictures Entertainment,"Feb 19, 2016, Limited"
+236,How to Train Your Dragon: The Hidden …,"$520,691,182",N/A,N/A,N/A,N/A,N/A
+237,Kung Fu Panda 3,"$520,189,225",N/A,N/A,N/A,N/A,N/A
+238,Ant-Man,"$518,858,449",85%,83%,Peyton Reed,Walt Disney,"Jul 17, 2015, "
+239,Ghost,"$517,599,988",50%,,Kim Tae-kyeong,Walt Disney,"Jul 17, 2015, "
+240,Meet the Fockers,"$516,567,575",58%,39%,Jay Roach,Universal Pictures,"Dec 22, 2004, "
+241,Terminator 2: Judgment Day,"$515,361,524",N/A,N/A,N/A,N/A,N/A
+242,Dr. Seuss’ The Grinch,"$514,873,747",N/A,N/A,N/A,N/A,N/A
+243,Toy Story 2,"$511,358,276",N/A,N/A,N/A,N/A,N/A
+244,Dunkirk,"$509,736,928",73%,60%,Leslie Norman,N/A,N/A
+245,Demon Slayer: Kimetsu no Yaiba—The Mo…,"$507,119,058",N/A,N/A,N/A,N/A,N/A
+246,Aladdin,"$504,050,219",94%,57%,Guy Ritchie,Walt Disney,"May 24, 2019, "
+247,Venom: Let There be Carnage,"$501,546,922",84%,57%,Andy Serkis,Columbia Pictures,"Oct 1, 2021, "
+248,Sherlock Holmes,"$498,438,212",,,George Anton,Columbia Pictures,"Oct 1, 2021, "
+249,Wreck-It Ralph,"$496,511,521",86%,87%,Rich Moore,Walt Disney,"Nov 2, 2012, "
+250,Twister,"$495,700,000",N/A,N/A,N/A,N/A,N/A
+251,How to Train Your Dragon,"$494,870,992",91%,99%,"Christopher Sanders, Dean DeBlois","DreamWorks SKG,, Paramount Pictures","Mar 26, 2010, "
+252,Clash of the Titans,"$493,214,888",70%,64%,Desmond Davis,"Metro-Goldwyn-Mayer Distributing Corp.,, Warner Home Vídeo,, MGM/UA Home Entertainment Inc.","Jun 12, 1981, "
+253,Rio 2,"$492,846,291",N/A,N/A,N/A,N/A,N/A
+254,Shrek,"$492,186,434",90%,88%,"Andrew Adamson, Vicky Jenson",DreamWorks SKG,"May 18, 2001, "
+255,Angels & Demons,"$490,875,846",N/A,N/A,N/A,N/A,N/A
+256,Oz the Great and Powerful,"$490,359,051",56%,57%,Sam Raimi,Walt Disney,"Mar 8, 2013, "
+257,War for the Planet of the Apes,"$489,592,267",84%,94%,Matt Reeves,20th Century Fox,"Jul 14, 2017, "
+258,Maleficent: Mistress of Evil,"$489,181,357",95%,39%,Joachim Rønning,Walt Disney,"Oct 18, 2019, "
+259,Xiāo Shī De Tā (消失的她),"$488,379,038",N/A,N/A,N/A,N/A,N/A
+260,Rio,"$487,517,241",71%,72%,Carlos Saldanha,"20th Century Fox,, Blue Sky Animation","Apr 15, 2011, "
+261,Mr. and Mrs. Smith,"$486,124,090",N/A,N/A,N/A,N/A,N/A
+262,Puss in Boots: The Last Wish,"$485,254,377",94%,95%,Joel Crawford,Universal Pictures,"Dec 21, 2022, "
+263,Saving Private Ryan,"$485,035,085",95%,94%,Steven Spielberg,"Paramount Pictures,, DreamWorks SKG","Jul 24, 1998, "
+264,Teenage Mutant Ninja Turtles,"$485,004,754",60%,36%,Kevin Munroe,Warner Bros.,"Mar 23, 2007, "
+265,Elemental,"$484,829,737",60%,100%,"Gayatri Roshan, Emmanuel Vaughan-Lee",Warner Bros.,"Mar 23, 2007, "
+266,Les Intouchables,"$484,630,908",N/A,N/A,N/A,N/A,N/A
+267,Bruce Almighty,"$484,468,608",57%,48%,Tom Shadyac,Universal Pictures,"May 23, 2003, "
+268,Jaws,"$483,655,893",90%,97%,Steven Spielberg,"Universal Pictures,, DiscoVision","Jun 20, 1975, "
+269,Troy,"$483,152,040",73%,53%,Wolfgang Petersen,Warner Bros. Pictures,"May 13, 2004, "
+270,Star Wars Ep. VI: Return of the Jedi,"$482,365,284",N/A,N/A,N/A,N/A,N/A
+271,YOLO (热辣滚烫),"$479,597,304",N/A,N/A,N/A,N/A,N/A
+272,Home Alone,"$476,680,641",80%,66%,Chris Columbus,20th Century Fox,"Nov 16, 1990, "
+273,Charlie and the Chocolate Factory,"$475,825,484",51%,83%,Tim Burton,Warner Bros. Pictures,"Jul 15, 2005, "
+274,Hotel Transylvania 2,"$474,800,000",N/A,N/A,N/A,N/A,N/A
+275,Wo he wo de zu guo,"$474,488,019",N/A,N/A,N/A,N/A,N/A
+276,Indiana Jones and the Last Crusade,"$474,171,806",94%,84%,Steven Spielberg,Paramount Pictures,"May 24, 1989, "
+277,Ba bai,"$472,648,086",N/A,N/A,N/A,N/A,N/A
+278,Rise of the Planet of the Apes,"$470,986,200",77%,82%,Rupert Wyatt,20th Century Fox,"Aug 5, 2011, "
+279,The Lego Movie,"$467,576,428",87%,96%,"Phil Lord, Christopher Miller",Warner Bros. Pictures,"Feb 7, 2014, "
+280,It: Chapter Two,"$467,561,586",78%,62%,Andy Muschietti,Warner Bros. Pictures,"Sep 6, 2019, "
+281,Star Trek Into Darkness,"$467,381,584",89%,84%,J.J. Abrams,Paramount Pictures,"May 16, 2013, "
+282,Pegasus 2 (飞驰人生2),"$466,930,272",N/A,N/A,N/A,N/A,N/A
+283,The Matrix,"$465,974,198",85%,83%,"Lilly Wachowski, Lana Wachowski",Warner Bros. Pictures,"Mar 31, 1999, "
+284,The Hangover,"$465,487,583",84%,79%,Todd Phillips,Warner Bros.,"Jun 5, 2009, "
+285,Bumblebee,"$464,731,819",75%,90%,Travis Knight,Paramount Pictures,"Dec 21, 2018, "
+286,Ant-Man and the Wasp: Quantumania,"$463,635,303",82%,46%,Peyton Reed,Walt Disney Pictures,"Feb 17, 2023, "
+287,Cars,"$461,630,558",80%,75%,"John Lasseter, Joe Ranft",Walt Disney Pictures,"Jun 9, 2006, "
+288,Du Xing Yue Qiu (独行月球),"$460,303,199",N/A,N/A,N/A,N/A,N/A
+289,X-Men: The Last Stand,"$459,260,946",61%,57%,Brett Ratner,20th Century Fox,"May 26, 2006, "
+290,Mission: Impossible,"$457,697,994",71%,65%,Brian De Palma,Paramount Pictures,"May 22, 1996, Original"
+291,Lucy,"$457,507,776",14%,,Henner Winckler,Paramount Pictures,"May 22, 1996, Original"
+292,National Treasure: Book of Secrets,"$457,325,804",67%,36%,Jon Turteltaub,Buena Vista,"Dec 21, 2007, "
+293,The Last Samurai,"$456,810,575",N/A,N/A,N/A,N/A,N/A
+294,San Andreas,"$456,258,539",52%,49%,Brad Peyton,Warner Bros. Pictures,"May 29, 2015, "
+295,300,"$454,161,935",N/A,N/A,N/A,N/A,N/A
+296,Gladiator,"$451,683,599",87%,80%,Ridley Scott,"Universal Pictures,, DreamWorks SKG","May 5, 2000, "
+297,Wo Bi Shi Yao Shen,"$451,183,392",N/A,N/A,N/A,N/A,N/A
+298,Ocean's Eleven,"$450,728,529",N/A,N/A,N/A,N/A,N/A
+299,Django Unchained,"$449,841,566",92%,87%,Quentin Tarantino,Weinstein Co.,"Dec 25, 2012, "
+300,Godzilla vs. Kong,"$449,450,112",N/A,N/A,N/A,N/A,N/A
+301,Thor,"$449,326,618",76%,77%,Kenneth Branagh,Paramount Pictures,"May 6, 2011, "
+302,Pearl Harbor,"$449,239,853",N/A,N/A,N/A,N/A,N/A
+303,Tarzan,"$448,191,819",75%,89%,"Chris Buck, Kevin Lima",American International Pictures,"Jun 18, 1999, "
+304,The Secret Life of Pets 2,"$446,449,908",N/A,N/A,N/A,N/A,N/A
+305,The Bourne Ultimatum,"$444,043,396",N/A,N/A,N/A,N/A,N/A
+306,Alvin and the Chipmunks: The Squeakquel,"$443,483,213",N/A,N/A,N/A,N/A,N/A
+307,Men in Black 2,"$441,767,803",N/A,N/A,N/A,N/A,N/A
+308,Mrs. Doubtfire,"$441,286,003",N/A,N/A,N/A,N/A,N/A
+309,John Wick: Chapter 4,"$440,320,578",N/A,N/A,N/A,N/A,N/A
+310,Transformers: Rise of the Beasts,"$439,241,749",91%,52%,Steven Caple Jr.,Paramount Pictures,"Jun 9, 2023, "
+311,Warcraft,"$438,899,824",76%,29%,Duncan Jones,Universal Pictures,"Jun 10, 2016, "
+312,Beauty and the Beast,"$438,656,843",,,Diane Eskenazi,Universal Pictures,"Jun 10, 2016, "
+313,Les Misérables,"$435,292,452",N/A,N/A,N/A,N/A,N/A
+314,The Mummy Returns,"$435,040,395",N/A,N/A,N/A,N/A,N/A
+315,La La Land,"$433,850,071",81%,91%,Damien Chazelle,Lionsgate Films,"Dec 25, 2016, "
+316,Aquaman and the Lost Kingdom,"$433,845,564",81%,33%,James Wan,Warner Bros. Pictures,"Dec 22, 2023, "
+317,Wo He Wo De Jia Xiang,"$433,241,288",N/A,N/A,N/A,N/A,N/A
+318,Zhongguo jizhang,"$433,168,672",,,Andrew Lau Wai-Keung,N/A,N/A
+319,Terminator 3: Rise of the Machines,"$433,058,296",N/A,N/A,N/A,N/A,N/A
+320,Pretty Woman,"$432,566,361",68%,65%,Garry Marshall,Buena Vista Pictures,"Mar 23, 1990, Original"
+321,Shang-Chi and the Legend of the Ten R…,"$432,224,634",N/A,N/A,N/A,N/A,N/A
+322,Terminator: Genisys,"$432,150,894",52%,26%,Alan Taylor,Paramount Pictures,"Jul 1, 2015, "
+323,Die Another Day,"$431,942,139",41%,55%,Lee Tamahori,"20th Century Fox Italia,, UGC-Fox Distribution,, Gativideo,, 20th Century Fox,, Metro-Goldwyn-Mayer,, 20th Century Fox of Germany","Nov 22, 2002, "
+324,A Star is Born,"$431,674,156",80%,90%,Bradley Cooper,Warner Bros. Pictures,"Oct 5, 2018, "
+325,The King’s Speech,"$430,061,213",N/A,N/A,N/A,N/A,N/A
+326,Dune,"$429,941,853",N/A,N/A,N/A,N/A,N/A
+327,Pokémon: Detective Pikachu,"$428,919,826",N/A,N/A,N/A,N/A,N/A
+328,The Greatest Showman,"$428,875,907",86%,57%,Michael Gracey,20th Century Fox,"Dec 20, 2017, "
+329,The Exorcist,"$428,824,083",87%,78%,William Friedkin,Warner Bros. Pictures,"Dec 26, 1973, Original"
+330,Rampage,"$427,947,217",,,Steve Savage,Warner Bros. Pictures,"Dec 26, 1973, Original"
+331,The Matrix Revolutions,"$427,300,260",60%,34%,"Lilly Wachowski, Lana Wachowski",Warner Bros. Pictures,"Nov 5, 2003, "
+332,Cast Away,"$427,230,516",84%,89%,Robert Zemeckis,DreamWorks SKG,"Dec 22, 2000, "
+333,Bad Boys For Life,"$424,471,663",96%,75%,"Adil El Arbi, Bilall Fallah","Columbia Pictures,, Sony Pictures Entertainment","Jan 17, 2020, "
+334,Dances with Wolves,"$424,208,805",87%,87%,Kevin Costner,"Image Entertainment Inc.,, Orion Pictures,, MGM/UA Home Entertainment Inc.","Nov 21, 1990, "
+335,The Chronicles of Narnia: The Voyage …,"$418,186,950",N/A,N/A,N/A,N/A,N/A
+336,The Mummy,"$418,138,535",75%,62%,Stephen Sommers,Universal Pictures,"May 7, 1999, "
+337,The Chronicles of Narnia: Prince Caspian,"$417,341,288",N/A,N/A,N/A,N/A,N/A
+338,The Wolverine,"$416,456,852",N/A,N/A,N/A,N/A,N/A
+339,Jason Bourne,"$416,168,316",55%,54%,Paul Greengrass,Universal Pictures,"Jul 29, 2016, "
+340,Sex and the City,"$415,247,258",77%,50%,Michael Patrick King,Warner Bros.,"May 30, 2008, "
+341,Rain Man,"$412,800,000",90%,88%,Barry Levinson,"MGM/UA Home Entertainment Inc.,, United Artists","Dec 14, 1988, "
+342,Batman,"$411,348,924",N/A,N/A,N/A,N/A,N/A
+343,The Bodyguard,"$411,006,740",,,Ali Khamraev,N/A,N/A
+344,Pacific Rim,"$411,002,906",N/A,N/A,N/A,N/A,N/A
+345,The Mummy,"$409,953,905",75%,62%,Stephen Sommers,Universal Pictures,"May 7, 1999, "
+346,Kingsman: The Golden Circle,"$408,803,696",64%,50%,Matthew Vaughn,20th Century Fox,"Sep 22, 2017, "
+347,Signs,"$408,250,578",67%,75%,M. Night Shyamalan,Touchstone Pictures,"Aug 2, 2002, "
+348,X-Men 2,"$406,348,630",N/A,N/A,N/A,N/A,N/A
+349,The Mummy: Tomb of the Dragon Emperor,"$405,760,225",N/A,N/A,N/A,N/A,N/A
+350,Sonic the Hedgehog 2,"$405,154,426",N/A,N/A,N/A,N/A,N/A
+351,Kingsman: The Secret Service,"$404,561,724",84%,75%,Matthew Vaughn,20th Century Fox,"Feb 13, 2015, "
+352,Fantastic Beasts: The Secrets of Dumb…,"$404,560,145",N/A,N/A,N/A,N/A,N/A
+353,Sing 2,"$404,534,588",N/A,N/A,N/A,N/A,N/A
+354,Prometheus,"$402,448,265",,,Tony Harrison,N/A,N/A
+355,Twilight,"$402,278,564",72%,49%,Catherine Hardwicke,Summit Entertainment,"Nov 21, 2008, "
+356,Night at the Museum: Battle of the Sm…,"$402,231,063",N/A,N/A,N/A,N/A,N/A
+357,Ice Age: Collision Course,"$402,156,682",39%,18%,Mike Thurmeier,20th Century Fox,"Jul 22, 2016, "
+358,Alita: Battle Angel,"$401,900,040",91%,61%,Robert Rodriguez,20th Century Fox,"Feb 14, 2019, "
+359,Eternals,"$401,731,759",77%,47%,Chloé Zhao,Walt Disney,"Nov 5, 2021, "
+360,Snow White and the Huntsman,"$401,021,746",52%,49%,Rupert Sanders,Universal Pictures,"Jun 1, 2012, "
+361,Uncharted,"$400,689,914",17%,,Frank Nunez,Universal Pictures,"Jun 1, 2012, "
+362,Tron: Legacy,"$399,866,199",N/A,N/A,N/A,N/A,N/A
+363,Mission: Impossible III,"$399,387,745",N/A,N/A,N/A,N/A,N/A
+364,Bad Boys: Ride or Die,"$398,454,005",97%,65%,"Adil El Arbi, Bilall Fallah",Columbia Pictures,"Jun 7, 2024, "
+365,Kingdom of the Planet of the Apes,"$396,347,310",78%,80%,Wes Ball,20th Century Studios,"May 10, 2024, "
+366,Meg 2: The Trench,"$394,299,160",N/A,N/A,N/A,N/A,N/A
+367,Mamma Mia: Here We Go Again!,"$393,439,007",N/A,N/A,N/A,N/A,N/A
+368,Solo: A Star Wars Story,"$393,151,347",63%,69%,Ron Howard,Walt Disney,"May 25, 2018, "
+369,Ji Su Shi Ke (这个杀手不太冷静),"$393,014,816",N/A,N/A,N/A,N/A,N/A
+370,Superman Returns,"$391,081,192",60%,74%,Bryan Singer,Warner Bros. Pictures,"Jun 28, 2006, "
+371,Gone with the Wind,"$390,516,513",92%,90%,Victor Fleming,Metro-Goldwyn-Mayer,"Dec 15, 1939, "
+372,Robin Hood: Prince of Thieves,"$390,500,000",72%,51%,Kevin Reynolds,Warner Bros. Pictures,"Jun 14, 1991, "
+373,Black Adam,"$390,455,088",88%,39%,Jaume Collet-Serra,Warner Bros. Pictures,"Oct 21, 2022, "
+374,The Wolf of Wall Street,"$389,816,136",,63%,Rowland V. Lee,Warner Bros. Pictures,"Oct 21, 2022, "
+375,1917,"$389,140,440",N/A,N/A,N/A,N/A,N/A
+376,Back to the Future,"$388,386,822",95%,93%,Robert Zemeckis,Universal Pictures,"Jul 3, 1985, Original"
+377,Grease,"$387,472,317",87%,66%,Randal Kleiser,Paramount Pictures,"Jul 7, 1978, "
+378,Star Trek,"$386,839,614",91%,94%,J.J. Abrams,Paramount Pictures,"May 7, 2009, "
+379,Ice Age,"$386,116,343",82%,77%,Chris Wedge,20th Century Fox,"Mar 15, 2002, "
+380,Home,"$385,997,896",,,Efrain Flores,20th Century Fox,"Mar 15, 2002, "
+381,Happy Feet,"$385,000,315",70%,76%,George Miller,Warner Bros. Pictures,"Nov 17, 2006, "
+382,Independence Day: Resurgence,"$384,169,424",30%,29%,Roland Emmerich,20th Century Fox,"Jun 24, 2016, "
+383,Indiana Jones and the Dial of Destiny,"$383,963,057",88%,70%,James Mangold,Walt Disney Pictures,"Jun 30, 2023, "
+384,Spirited Away (千と千尋の神隠し),"$383,947,619",N/A,N/A,N/A,N/A,N/A
+385,Slumdog Millionaire,"$383,825,427",90%,91%,Danny Boyle,Fox,"Jan 23, 2009, "
+386,Cars 3,"$383,541,369",N/A,N/A,N/A,N/A,N/A
+387,Godzilla: King of the Monsters,"$383,299,914",73%,84%,"Terry Morse, Ishirô Honda",N/A,"Apr 27, 1956, Limited"
+388,Live Free or Die Hard,"$382,288,147",86%,82%,Len Wiseman,20th Century Fox,"Jun 27, 2007, "
+389,Monsters vs. Aliens,"$381,687,380",N/A,N/A,N/A,N/A,N/A
+390,Fifty Shades Darker,"$381,367,046",48%,11%,James Foley,Universal Pictures,"Feb 10, 2017, "
+391,Black Widow,"$379,751,131",,,Christian Lee,Universal Pictures,"Feb 10, 2017, "
+392,Hotel Transylvania,"$378,119,469",72%,44%,Genndy Tartakovsky,Sony Pictures Entertainment,"Sep 28, 2012, "
+393,Taken 2,"$377,807,404",N/A,N/A,N/A,N/A,N/A
+394,Once Upon a Time…in Hollywood,"$377,426,903",70%,86%,Quentin Tarantino,"Sony Pictures Entertainment,, Columbia Pictures","Jul 26, 2019, "
+395,Godzilla,"$376,000,000",28%,20%,Roland Emmerich,Columbia Pictures,"May 19, 1998, "
+396,G.I. Joe: Retaliation,"$375,740,705",N/A,N/A,N/A,N/A,N/A
+397,Spider-Man: Into The Spider-Verse 3D,"$375,464,627",N/A,N/A,N/A,N/A,N/A
+398,My Big Fat Greek Wedding,"$374,890,034",73%,76%,Joel Zwick,IFC Films,"Apr 19, 2002, Original"
+399,X-Men Origins: Wolverine,"$374,825,760",N/A,N/A,N/A,N/A,N/A
+400,Successor (抓娃娃),"$374,561,698",N/A,N/A,N/A,N/A,N/A
+401,What Women Want,"$374,105,123",54%,54%,Nancy Meyers,Paramount Pictures,"Dec 15, 2000, "
+402,The Adventures of Tintin,"$373,993,951",74%,75%,Steven Spielberg,Paramount Pictures,"Dec 21, 2011, "
+403,Fifty Shades Freed,"$371,985,018",38%,11%,James Foley,Universal Pictures,"Feb 9, 2018, "
+404,Shark Tale,"$371,741,123",48%,35%,"Rob Letterman, Bibo Bergeron, Vicky Jenson",DreamWorks SKG,"Oct 1, 2004, "
+405,Captain America: The First Avenger,"$370,569,776",75%,80%,Joe Johnston,Paramount Pictures,"Jul 22, 2011, "
+406,There's Something About Mary,"$369,884,651",N/A,N/A,N/A,N/A,N/A
+407,Creation of the Gods I: Kindom of Sto…,"$369,081,777",N/A,N/A,N/A,N/A,N/A
+408,Mad Max: Fury Road,"$368,297,521",86%,97%,George Miller,Warner Bros. Pictures,"May 15, 2015, "
+409,Raiders of the Lost Ark,"$367,451,914",96%,93%,Steven Spielberg,Paramount Pictures,"Jun 12, 1981, "
+410,The Golden Compass,"$367,262,558",51%,42%,Chris Weitz,New Line Cinema,"Dec 7, 2007, "
+411,Gone Girl,"$367,128,535",87%,88%,David Fincher,20th Century Fox,"Oct 3, 2014, "
+412,Edge of Tomorrow,"$367,028,980",90%,91%,Doug Liman,Warner Bros. Pictures,"Jun 6, 2014, "
+413,Xi Hong Shi Shou Fu,"$366,961,920",N/A,N/A,N/A,N/A,N/A
+414,Penguins of Madagascar,"$366,942,531",63%,74%,"Eric Darnell, Simon J. Smith",20th Century Fox,"Nov 26, 2014, "
+415,Hitch,"$366,784,257",62%,69%,Andy Tennant,Sony Pictures Entertainment,"Feb 11, 2005, "
+416,Die Hard: With a Vengeance,"$366,101,666",83%,59%,John McTiernan,"Fox,, 20th Century Fox","May 19, 1995, Original"
+417,Jurassic Park III,"$365,900,000",37%,49%,Joe Johnston,Universal Pictures,"Jul 18, 2001, "
+418,Terminator Salvation,"$365,491,792",53%,33%,McG,Warner Bros.,"May 21, 2009, "
+419,True Lies,"$365,300,000",76%,70%,James Cameron,"Argentina Video Home,, 20th Century Fox","Jul 15, 1994, "
+420,Toy Story,"$365,270,951",92%,100%,John Lasseter,"Buena Vista Pictures,, Warner Home Vídeo","Nov 22, 1995, Original"
+421,Notting Hill,"$363,718,196",79%,84%,Roger Michell,"MCA/Universal Pictures [us],, Polygram","May 28, 1999, "
+422,Shazam!,"$363,563,907",N/A,N/A,N/A,N/A,N/A
+423,A Bug’s Life,"$363,095,319",N/A,N/A,N/A,N/A,N/A
+424,Ocean's Twelve,"$362,989,076",N/A,N/A,N/A,N/A,N/A
+425,The Nun,"$362,900,037",20%,,Luis de la Madrid,N/A,N/A
+426,Alvin and the Chipmunks,"$362,605,033",57%,,Tim Hill,20th Century Fox,"Dec 14, 2007, "
+427,Planet of the Apes,"$362,211,740",N/A,N/A,N/A,N/A,N/A
+428,The Hangover 3,"$362,000,072",N/A,N/A,N/A,N/A,N/A
+429,The World is Not Enough,"$361,730,660",N/A,N/A,N/A,N/A,N/A
+430,Zhuo yao ji 2,"$361,683,815",N/A,N/A,N/A,N/A,N/A
+431,Tenet,"$359,518,466",76%,69%,Christopher Nolan,Warner Bros. Pictures,"Sep 3, 2020, "
+432,Fast & Furious,"$359,347,833",N/A,N/A,N/A,N/A,N/A
+433,Home Alone 2: Lost in New York,"$358,994,850",N/A,N/A,N/A,N/A,N/A
+434,Kimi no na wa,"$358,954,042",N/A,N/A,N/A,N/A,N/A
+435,Minority Report,"$358,824,714",80%,89%,Steven Spielberg,20th Century Fox,"Jun 21, 2002, "
+436,The Flintstones,"$358,500,000",25%,23%,Brian Levant,"Argentina Video Home,, Universal Pictures","May 27, 1994, "
+437,Peter Rabbit,"$358,117,307",56%,64%,Will Gluck,Sony Pictures Entertainment,"Feb 9, 2018, "
+438,Top Gun,"$357,463,748",83%,58%,Tony Scott,Paramount Pictures,"May 16, 1986, Original"
+439,Batman Begins,"$356,770,593",94%,85%,Christopher Nolan,Warner Bros. Pictures,"Jun 15, 2005, "
+440,Goldeneye,"$356,429,933",83%,80%,Martin Campbell,United Artists,"Nov 17, 1995, "
+441,American Beauty,"$356,258,047",93%,87%,Sam Mendes,DreamWorks SKG,"Oct 1, 1999, "
+442,Dinosaur,"$356,148,063",,,"Eric Leighton, Ralph Zondag",DreamWorks SKG,"Oct 1, 1999, "
+443,Catch Me if You Can,"$355,612,291",89%,96%,Steven Spielberg,DreamWorks SKG,"Dec 25, 2002, "
+444,X-Men: First Class,"$355,408,305",87%,86%,Matthew Vaughn,20th Century Fox,"Jun 3, 2011, "
+445,Night at the Museum: Secret of the Tomb,"$353,756,621",57%,48%,Shawn Levy,20th Century Fox,"Dec 19, 2014, "
+446,The Fugitive,"$353,715,317",,,D.W. Griffith,20th Century Fox,"Dec 19, 2014, "
+447,The Great Gatsby,"$353,497,733",,52%,Herbert Brenon,20th Century Fox,"Dec 19, 2014, "
+448,Dumbo,"$353,166,307",70%,95%,Ben Sharpsteen,RKO Radio Pictures,"Oct 23, 1941, Original"
+449,Noah,"$352,831,065",41%,75%,Darren Aronofsky,Paramount Pictures,"Mar 28, 2014, "
+450,Basic Instinct,"$352,699,997",64%,55%,Paul Verhoeven,"Live Entertainment,, Live Video,, Pioneer Entertainment,, Columbia Tristar","Mar 20, 1992, Original"
+451,The Angry Birds Movie,"$352,288,341",47%,44%,"Clay Kaytis, Fergal Reilly",Sony Pictures Entertainment,"May 20, 2016, "
+452,The Karate Kid,"$351,774,938",N/A,N/A,N/A,N/A,N/A
+453,Murder on the Orient Express,"$351,767,147",78%,90%,Sidney Lumet,Paramount Pictures,"Nov 24, 1974, Original"
+454,The Mask,"$351,620,129",,67%,Julian Roffman,Paramount Pictures,"Nov 24, 1974, Original"
+455,Who Framed Roger Rabbit?,"$351,500,000",N/A,N/A,N/A,N/A,N/A
+456,Dr. Seuss’ The Lorax,"$351,097,803",N/A,N/A,N/A,N/A,N/A
+457,Hannibal,"$350,100,280",,,Edward Bazalgette,N/A,N/A
+458,Deep Impact,"$349,464,664",43%,45%,Mimi Leder,Paramount Pictures,"May 8, 1998, "
+459,Alvin and the Chipmunks: Chipwrecked,"$349,088,523",51%,10%,Mike Mitchell,20th Century Fox,"Dec 16, 2011, "
+460,The Legend of Tarzan,"$348,902,025",58%,35%,David Yates,Warner Bros. Pictures,"Jul 1, 2016, "
+461,"I, Robot","$348,629,585",N/A,N/A,N/A,N/A,N/A
+462,The Smurfs 2,"$348,547,523",N/A,N/A,N/A,N/A,N/A
+463,The Maze Runner,"$348,319,861",68%,65%,Wes Ball,20th Century Fox,"Sep 19, 2014, "
+464,Rush Hour 2,"$347,425,832",N/A,N/A,N/A,N/A,N/A
+465,Pocahontas,"$347,100,000",,,"Mike Gabriel, Eric Goldberg",N/A,N/A
+466,How the Grinch Stole Christmas,"$347,036,128",58%,49%,Ron Howard,Universal Pictures,"Nov 17, 2000, "
+467,Mary Poppins Returns,"$345,606,500",64%,79%,Rob Marshall,Walt Disney,"Dec 19, 2018, "
+468,xXx: Return of Xander Cage,"$345,033,359",37%,45%,D.J. Caruso,Paramount Pictures,"Jan 20, 2017, "
+469,The Hunger Games: The Ballad of Songb…,"$344,519,495",N/A,N/A,N/A,N/A,N/A
+470,Over the Hedge,"$343,397,247",71%,75%,"Tim Johnson, Karey Kirkpatrick",DreamWorks SKG,"May 19, 2006, "
+471,Trolls,"$342,831,709",67%,76%,"Mike Mitchell, Walt Dohrn",20th Century Fox,"Nov 4, 2016, "
+472,Now You See Me,"$342,769,200",70%,50%,Louis Leterrier,Lionsgate Films,"May 31, 2013, "
+473,Wanted,"$342,416,460",,,Jordon Foss,Lionsgate Films,"Apr 20, 2015, Limited"
+474,Zhuo yao ji,"$340,969,819",N/A,N/A,N/A,N/A,N/A
+475,Close Encounters of the Third Kind,"$340,800,479",85%,90%,Steven Spielberg,Columbia Pictures,"Nov 16, 1977, "
+476,Enchanted,"$340,384,141",80%,93%,Kevin Lima,Buena Vista,"Nov 21, 2007, "
+477,Tomorrow Never Dies,"$339,504,276",53%,57%,Roger Spottiswoode,United Artists,"Dec 19, 1997, "
+478,Article 20 (第二十条),"$337,554,287",N/A,N/A,N/A,N/A,N/A
+479,Batman Forever,"$336,529,144",32%,41%,Joel Schumacher,"Warner Bros.,, Warner Home Vídeo","Jun 16, 1995, Original"
+480,Prince of Persia: Sands of Time,"$336,359,676",58%,36%,Mike Newell,Walt Disney,"May 28, 2010, "
+481,The Rock,"$336,069,511",,,Pia Justine Cruz,Walt Disney,"May 28, 2010, "
+482,Apollo 13,"$335,802,271",N/A,N/A,N/A,N/A,N/A
+483,Star Trek Beyond,"$335,673,708",80%,86%,Justin Lin,Paramount Pictures,"Jul 22, 2016, "
+484,A Quiet Place,"$334,876,670",83%,96%,John Krasinski,Paramount Pictures,"Apr 6, 2018, "
+485,Never Say Die,"$334,536,622",,,Geoff Murphy,Paramount Pictures,"Apr 6, 2018, "
+486,The Great Wall,"$334,486,852",,,Shigeo Tanaka,Paramount Pictures,"Apr 6, 2018, "
+487,The Good Dinosaur,"$333,771,037",64%,75%,Peter Sohn,Walt Disney,"Nov 25, 2015, "
+488,Fantastic Four,"$333,132,750",45%,28%,Tim Story,20th Century Fox,"Jul 8, 2005, "
+489,Indiana Jones and the Temple of Doom,"$333,080,271",82%,77%,Steven Spielberg,Paramount Pictures,"May 23, 1984, "
+490,Back to the Future Part II,"$331,971,868",N/A,N/A,N/A,N/A,N/A
+491,22 Jump Street,"$331,333,876",N/A,N/A,N/A,N/A,N/A
+492,National Treasure,"$331,323,410",76%,46%,Jon Turteltaub,Buena Vista Pictures,"Nov 19, 2004, "
+493,Black Swan,"$331,266,710",73%,83%,Henry King,20th Century Fox,"Dec 4, 1942, Original"
+494,300: Rise of an Empire,"$330,780,051",N/A,N/A,N/A,N/A,N/A
+495,Meet the Parents,"$330,425,040",79%,85%,Jay Roach,"DreamWorks SKG,, Universal Pictures","Oct 6, 2000, "
+496,The Curious Case of Benjamin Button,"$329,631,958",N/A,N/A,N/A,N/A,N/A
+497,The Perfect Storm,"$328,711,434",63%,46%,Wolfgang Petersen,"Warner Bros. Pictures,, Warner Home Vídeo","Jun 30, 2000, "
+498,Now You See Me 2,"$328,325,007",N/A,N/A,N/A,N/A,N/A
+499,Crocodile Dundee,"$328,203,506",59%,89%,Peter Faiman,Paramount Pictures,"Sep 26, 1986, "
+500,Se7en,"$328,125,643",N/A,N/A,N/A,N/A,N/A

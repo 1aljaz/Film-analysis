@@ -37,7 +37,7 @@ class Film:
             rows = table.find_all('tr')
             print(f"Analyzing table with {len(rows)} rows")
             
-            for row in rows[1:]:  # Skip the header row
+            for row in rows[1:]: 
                 try:
                     columns = row.find_all('td')
                     if len(columns) >= 4:
@@ -55,7 +55,6 @@ class Film:
                             'Gross Income': self.gross,
                             'Audience Score': self.aud_score,
                             'Critics Score': self.crit_score,
-                            'Genre' : self.genre,
                             'Director' : self.director,
                             'Distributor' : self.dist,
                             'Release date': self.release_date
@@ -72,9 +71,8 @@ class Film:
         print(f"Total movies processed: {len(self.film_data)}")
 
     def correct_name(self, name:str):
-        s = name.replace(" ", "_")
-        s = s.replace(":", "")
-        return s 
+        s = name.replace(":", "")
+        return ''.join('_' if not c.isalpha() else c for c in s)
 
     def get_data_rotten(self, name):
         corrected_name = self.correct_name(name)
@@ -84,7 +82,6 @@ class Film:
             print(f"Failed to retrieve Rotten Tomatoes page for {name}. Status code: {response.status_code}")
             self.aud_score = 'N/A'
             self.crit_score = 'N/A'
-            self.genre = 'N/A'
             self.director = 'N/A'
             self.dist = 'N/A'
             self.release_date = 'N/A'
@@ -97,15 +94,15 @@ class Film:
             for div in info_dl.find_all('div', class_='category-wrap'):
                 key = div.find('dt', class_='key').text.strip()
                 value = div.find('dd')
-
-                if key == "Director":
-                    self.director = value.text.strip().replace("/r/n", "")
-                elif key == "Release Date (Theaters)":
+        
+                if key == "Director" and value != "":
+                    self.director = value.text.replace("\r", "").strip()
+                    self.director = self.director.replace("\n", "").strip()
+                elif key == "Release Date (Theaters)" and value != "":
                     self.release_date = value.text.strip().replace("Wide", "")
-                elif key == "Distributor":
+                elif key == "Distributor" and value != "":
                     self.dist = value.text.strip()
-                elif key == "Genre":
-                    self.genre = ', '.join([a.text.strip() for a in value.find_all('a')])
+                    self.dist = ', '.join([d.strip() for d in self.dist.split('\n') if d.strip()])
 
         def extract_score(slot_name):
             button = soup.find('rt-button', attrs={'slot': slot_name})
