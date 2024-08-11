@@ -9,9 +9,9 @@ headers = {
     'Accept-Language': 'en-US, en;q=0.5'
 }
 
-url = "https://www.the-numbers.com/box-office-records/worldwide/all-movies/cumulative/all-time"
-
-class Film:
+url_numbers = "https://www.the-numbers.com/box-office-records/worldwide/all-movies/cumulative/all-time"
+url_rotten = "https://www.rottentomatoes.com/m/"
+class Film: 
     def __init__(self):
         self.film_data = []
         self.aud_score = 'N/A'
@@ -23,8 +23,8 @@ class Film:
         self.release_date = ""
         self.dist = ""
 
-    def get_data_numbers(self, num=""):
-        response = requests.get(url+"/"+num, headers=headers)
+    def get_data_numbers(self, num=""): #Screjpam podatke iz url_numbers
+        response = requests.get(url_numbers+"/"+num, headers=headers)
         if response.status_code != 200:
             print(f"Status code: {response.status_code}")
             return
@@ -45,7 +45,7 @@ class Film:
                         self.name = name_element.text.strip() if name_element else "N/A"
                         self.gross = columns[3].text.strip()
                         
-                        # Get Rotten Tomatoes data
+                        # Dobim podatke iz rotten tomato
                         self.get_data_rotten(self.name)
                         
                         movie_data = {
@@ -70,15 +70,15 @@ class Film:
         
         print(f"Št. filmov: {len(self.film_data)}")
 
-    def correct_name(self, name:str):
+    def correct_name(self, name:str): #Pretvori ime filma iz numbers spletne strani v format za iskanje po rotten tomato spletni strani. Avengers: Endgame -> Avengers_Endgame
         s = name.replace(":", "")
         return ''.join('_' if not c.isalpha() else c for c in s)
 
     def get_data_rotten(self, name):
         corrected_name = self.correct_name(name)
-        url = f"https://www.rottentomatoes.com/m/{corrected_name}"
-        response = requests.get(url, headers=headers)
-        if response.status_code != 200:
+        
+        response = requests.get(url_rotten+{corrected_name}, headers=headers)
+        if response.status_code != 200:  #Gledam, če je sploh našel veljavno spletno stran
             print(response.status_code)
             self.aud_score = 'N/A'
             self.crit_score = 'N/A'
@@ -90,7 +90,7 @@ class Film:
         soup = bs(response.text, 'html.parser')
         dl = soup.find('dl')
 
-        if dl:
+        if dl: # Iz rotten tomato spletne strani pobere podatke in jih obdela
             for div in dl.find_all('div', class_='category-wrap'):
                 key = div.find('dt', class_='key').text.strip()
                 beseda = div.find('dd')
@@ -106,7 +106,7 @@ class Film:
                     self.dist = beseda.text.strip()
                     self.dist = ', '.join([d.strip() for d in self.dist.split('\n') if d.strip()])
 
-        def extract_score(slot_name):
+        def extract_score(slot_name): # Iz rotten tomato spletne strani pobere oceno občinstcva in kritikov.
             rt = soup.find('rt-button', attrs={'slot': slot_name})
             if rt:
                 rt_text = rt.find('rt-text')
@@ -120,7 +120,7 @@ class Film:
 
 
 
-    def save_to_csv(self):
+    def save_to_csv(self): # Shranim v csv
         if not self.film_data:
             print("No data to save")
             return
@@ -129,6 +129,6 @@ class Film:
         df.to_csv('movie_data.csv', index=False)
 
 f = Film()
-for i in range(0, 101*num_of_pages, 101):
+for i in range(0, 101*num_of_pages, 101): 
     f.get_data_numbers(str(i))
 f.save_to_csv()
