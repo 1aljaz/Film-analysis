@@ -23,7 +23,7 @@ class Film:
         self.release_date = ""
         self.dist = ""
 
-    def get_data_numbers(self, num=""): #Screjpam podatke iz url_numbers
+    def get_data_numbers(self, num=""): # Screjpam podatke iz url_numbers
         response = requests.get(url_numbers+"/"+num, headers=headers)
         if response.status_code != 200:
             print(f"Status code: {response.status_code}")
@@ -36,14 +36,14 @@ class Film:
         for table in tables:
             rows = table.find_all('tr')
             
-            for row in rows[1:]: 
+            for row in rows[1:]: # Prve ne upostevam
                 try:
-                    columns = row.find_all('td')
-                    if len(columns) >= 4:
-                        self.rank = columns[0].text.strip()
-                        name_element = columns[2].find('a')
+                    col = row.find_all('td')
+                    if len(col) >= 4:
+                        self.rank = col[0].text.strip()
+                        name_element = col[2].find('a')
                         self.name = name_element.text.strip() if name_element else "N/A"
-                        self.gross = columns[3].text.strip()
+                        self.gross = col[3].text.strip()
                         
                         # Dobim podatke iz rotten tomato
                         self.get_data_rotten(self.name)
@@ -64,13 +64,13 @@ class Film:
                         
                         print(f"Rank: {self.rank}, ime: {self.name}, Zasl.: {self.gross}, Občinstvo: {self.aud_score}, Kritiki: {self.crit_score}, Studio: {self.dist}, Direktor: {self.director}, Datum: {self.release_date}")
                     else:
-                        print(f"Row doesn't have enough columns: {columns}")
+                        print(f"Row doesn't have enough col: {col}")
                 except Exception as e:
                     print(e)
         
         print(f"Št. filmov: {len(self.film_data)}")
 
-    def correct_name(self, name:str): #Pretvori ime filma iz numbers spletne strani v format za iskanje po rotten tomato spletni strani. Avengers: Endgame -> Avengers_Endgame
+    def correct_name(self, name:str): # Pretvori ime filma iz numbers spletne strani v format za iskanje po rotten tomato spletni strani. Avengers: Endgame -> Avengers_Endgame
         s = name.replace(":", "")
         return ''.join('_' if not c.isalpha() else c for c in s)
 
@@ -78,7 +78,7 @@ class Film:
         corrected_name = self.correct_name(name)
         
         response = requests.get(url_rotten+{corrected_name}, headers=headers)
-        if response.status_code != 200:  #Gledam, če je sploh našel veljavno spletno stran
+        if response.status_code != 200:  # Gledam, če je sploh našel veljavno spletno stran
             print(response.status_code)
             self.aud_score = 'N/A'
             self.crit_score = 'N/A'
@@ -95,7 +95,7 @@ class Film:
                 key = div.find('dt', class_='key').text.strip()
                 beseda = div.find('dd')
         
-                if key == "Director" and beseda != "":
+                if key == "Director" and beseda != "": # Za vse if stavke pogledam, ce niso slucajno prazni
                     self.director = beseda.text.replace("\r", "").strip()
                     self.director = self.director.replace("\n", "").strip()
                 elif key == "Release Date (Theaters)" and beseda != "":
@@ -104,7 +104,7 @@ class Film:
                     self.release_date = self.release_date[:-1]
                 elif key == "Distributor" and beseda != "":
                     self.dist = beseda.text.strip()
-                    self.dist = ', '.join([d.strip() for d in self.dist.split('\n') if d.strip()])
+                    self.dist = ', '.join([d.strip() for d in self.dist.split('\n') if d.strip()]) # Iz seznama distributorjev odstrani vse whitespace in jih zdruzi v string
 
         def extract_score(slot_name): # Iz rotten tomato spletne strani pobere oceno občinstcva in kritikov.
             rt = soup.find('rt-button', attrs={'slot': slot_name})
