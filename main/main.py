@@ -1,17 +1,14 @@
 from bs4 import BeautifulSoup as bs
 import pandas as pd
 import requests
-
-num_of_pages = 30  #number of pages it scrapes on the numbers website
+import settings as set
 
 headers = {
     'User-Agent': 'Mozilla/5.0 (X11; CrOS x86_64 8172.45.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.64 Safari/537.36',
     'Accept-Language': 'en-US, en;q=0.5'
 }
 
-url_numbers = "https://www.the-numbers.com/box-office-records/worldwide/all-movies/cumulative/all-time"
-url_rotten = "https://www.rottentomatoes.com/m/"
-class Film: 
+class Filmi: 
     def __init__(self):
         self.film_data = []
         self.aud_score = 'N/A'
@@ -24,7 +21,7 @@ class Film:
         self.dist = ""
 
     def get_data_numbers(self, num=""): # Screjpam podatke iz url_numbers
-        response = requests.get(url_numbers+"/"+num, headers=headers)
+        response = requests.get(set.URL_NUMBERS+"/"+num, headers=headers)
         if response.status_code != 200:
             print(f"Status code: {response.status_code}")
             return
@@ -77,7 +74,7 @@ class Film:
     def get_data_rotten(self, name):
         corrected_name = self.correct_name(name)
         
-        response = requests.get(url_rotten+{corrected_name}, headers=headers)
+        response = requests.get(set.URL_ROTTEN+{corrected_name}, headers=headers)
         if response.status_code != 200:  # Gledam, če je sploh našel veljavno spletno stran
             print(response.status_code)
             self.aud_score = 'N/A'
@@ -128,7 +125,3 @@ class Film:
         df = pd.DataFrame(self.film_data)
         df.to_csv('movie_data.csv', index=False)
 
-f = Film()
-for i in range(0, 101*num_of_pages, 101): 
-    f.get_data_numbers(str(i))
-f.save_to_csv()
